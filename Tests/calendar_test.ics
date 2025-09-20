@@ -6,6 +6,12 @@ SUMMARY:Test zur Überprüfung
 UID:Test3894792347893471398
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:Test 2 zur Überprüfung
+UID:Test3894792347893471399
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20250916T125851Z
 DESCRIPTION:Voraussichtlich:\n- Grundkurs: …\n- Aufbaukurs: …\n\nhttps://
  www.base-sued-west.de/veranstaltungen/bildungsangebote/-gruppenleitungsk
