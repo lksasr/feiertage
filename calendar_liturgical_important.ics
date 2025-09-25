@@ -5,7 +5,7 @@ PRODID:-//Apple Inc.//macOS 15.6.1//EN
 X-WR-CALNAME:Besondere Feste und Sonntage im Jahreskreis
 X-APPLE-LANGUAGE:de
 X-APPLE-REGION:DE
-
+X-WR-CALDESC:Beinhaltet eine Auswahl der wichtigen (Hoch-)Feste im Jahreskreis für die Erzdiözese München und Freising.
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001208
 DTEND;VALUE=DATE:19001209
