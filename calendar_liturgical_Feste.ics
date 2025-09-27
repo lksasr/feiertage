@@ -34,7 +34,7 @@ DTSTART;VALUE=DATE:19000214
 DTEND;VALUE=DATE:19000215
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=14;BYMONTH=2
 SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (F)
-DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender\n\nGebotener Gedenktag im Generalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender, Generalkalender\n\nGebotener Gedenktag im Generalkalender
 UID:HlCyrillHlMethodius
 END:VEVENT
 BEGIN:VEVENT
