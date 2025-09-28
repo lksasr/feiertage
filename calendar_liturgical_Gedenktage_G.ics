@@ -10,421 +10,421 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000102
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=2
 SUMMARY:Hl. Basilius der Große (379) und hl. Gregor von Nazianz (um 390), Bischöfe, Kirchenlehrer (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000117
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=17
 SUMMARY:Hl. Antonius, Mönchsvater in Ägypten (356) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000121
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=21
 X-SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (G)
-X-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender\n\nGebotener Gedenktag im Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender\n\nGebotener Gedenktag im Generalkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000124
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=24
 SUMMARY:Hl. Franz von Sales, Bischof von Genf, Ordensgründer, Kirchenlehrer (1622) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000126
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=26
 SUMMARY:Hl. Timotheus und hl. Titus, Bischöfe, Apostelschüler (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000128
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=28
 SUMMARY:Hl. Thomas von Aquin, Ordenspriester, Kirchenlehrer (1274) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000131
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=31
 SUMMARY:Hl. Johannes Bosco, Priester, Ordensgründer (1888) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000205
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=5
 SUMMARY:Hl. Agatha, Jungfrau, Märtyrin in Catania (um 250) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000206
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=6
 SUMMARY:Hl. Paul Miki und Gefährten, Märtyrer in Nagasaki (1597) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000210
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=10
 SUMMARY:Hl. Scholastika, Jungfrau (um 547) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000223
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=23
 SUMMARY:Hl. Polykarp, Bischof von Smyrna, Märtyrer (155) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000307
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=7
 SUMMARY:Hl. Perpetua und hl. Felicitas, Märtyrinnen in Karthago (202/203) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000407
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=7
 SUMMARY:Hl. Jean Baptiste de La Salle, Priester, Ordensgründer (1719) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000411
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=11
 SUMMARY:Hl. Stanislaus, Bischof von Krakau, Märtyrer (1079) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000502
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=2
 SUMMARY:Hl. Athanasius, Bischof von Alexandrien, Kirchenlehrer (373) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000526
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=26
 SUMMARY:Hl. Philipp Neri, Priester, Gründer des Oratoriums (1595) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000601
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=1
 SUMMARY:Hl. Justin, Philosoph, Märtyrer (um 165) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000603
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=3
 SUMMARY:Hl. Karl Lwanga und Gefährten, Märtyrer in Uganda (1886) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000611
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=11
 SUMMARY:Hl. Barnabas, Apostel (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000613
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=13
 SUMMARY:Hl. Antonius von Padua, Ordenspriester, Kirchenlehrer (1231) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000621
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=21
 SUMMARY:Hl. Aloisius von Gonzaga, Ordensmann (1591) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000628
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=28
 SUMMARY:Hl. Irenäus, Bischof von Lyon, Märtyrer (um 202) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000715
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=15
 SUMMARY:Hl. Bonaventura, Ordensmann, Bischof, Kirchenlehrer (1274) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000726
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=26
 SUMMARY:Hl. Joachim und hl. Anna, Eltern der Gottesmutter Maria (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000729
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=29
 SUMMARY:Hl. Martha, Maria und Lazarus (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000731
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=31
 SUMMARY:Hl. Ignatius von Loyola, Priester, Ordensgründer (1556) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000801
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=1
 SUMMARY:Hl. Alfons Maria von Liguori, Ordensgründer, Bischof, Kirchenlehrer (1787) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000804
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=4
 SUMMARY:Hl. Johannes Maria Vianney, Pfarrer von Ars (1859) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000808
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=8
 SUMMARY:Hl. Dominikus, Priester, Ordensgründer (1221) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000811
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=11
 SUMMARY:Hl. Klara von Assisi, Jungfrau, Ordensgründerin (1253) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000814
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=14
 SUMMARY:Hl. Maximilian Kolbe, Ordenspriester, Märtyrer (1941) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000820
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=20
 SUMMARY:Hl. Bernhard von Clairvaux, Abt, Kirchenlehrer (1153) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000821
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=21
 SUMMARY:Hl. Pius X., Papst (1914) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000822
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=22
 SUMMARY:Maria Königin (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000827
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=27
 SUMMARY:Hl. Monika, Mutter des Augustinus (387) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:190008
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=28
 SUMMARY:Hl. Augustinus, Bischof von Hippo, Kirchenlehrer (430) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000829
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=29
 SUMMARY:Enthauptung des hl. Johannes des Täufers (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000903
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=3
 SUMMARY:Hl. Gregor der Große, Papst, Kirchenlehrer (604) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=13
 SUMMARY:Hl. Johannes Chrysostomus, Bischof von Konstantinopel, Kirchenlehrer (407) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:190009
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=15
 SUMMARY:Gedächtnis der Schmerzen Mariens (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000916
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=16
 SUMMARY:Hl. Kornelius, Papst (253), und hl. Cyprian, Bischof von Karthago, Märtyrer (258) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000920
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=20
 SUMMARY:Hl. Andreas Kim Tae-gŏn, Priester, und hl. Paul Chŏng Ha-sang und Gefährten, Märtyrer in Korea (1839–1867) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020923
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=23
 SUMMARY:Hl. Pio da Pietrelcina (Padre Pio), Ordenspriester (1968) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000927
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=27
 SUMMARY:Hl. Vinzenz von Paul, Priester, Ordensgründer (1660) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000930
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=30
 SUMMARY:Hl. Hieronymus, Priester, Kirchenlehrer (420) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001001
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=1
 SUMMARY:Hl. Theresia vom Kinde Jesus, Ordensfrau (1897) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001002
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=2
 SUMMARY:Hll. Schutzengel (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001004
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=4
 SUMMARY:Hl. Franz von Assisi, Ordensgründer (1226) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001007
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=7
 SUMMARY:Unsere Liebe Frau vom Rosenkranz (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001015
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=15
 SUMMARY:Hl. Theresa von Ávila, Ordensfrau, Kirchenlehrerin (1582) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001017
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=17
 SUMMARY:Hl. Ignatius, Bischof von Antiochien, Märtyrer (um 115) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001104
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=4
 SUMMARY:Hl. Karl Borromäus, Bischof von Mailand (1584) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001110
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=10
 SUMMARY:Hl. Leo der Große, Papst, Kirchenlehrer (461) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001111
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=11
 SUMMARY:Hl. Martin, Bischof von Tours (397) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001112
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=12
 SUMMARY:Hl. Josaphat, Bischof von Polozk in Weißrussland, Märtyrer (1623) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001119
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=19
 SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender, Regionalkalender\n\nIm Generalkalender am 17. November
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender\n\nIm Generalkalender am 17. November
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001121
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=21
 SUMMARY:Gedenktag Unserer Lieben Frau in Jerusalem (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001122
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=22
 SUMMARY:Hl. Cäcilia, Jungfrau, Märtyrin in Rom (um 250) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001124
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=24
 SUMMARY:Hl. Andreas Dung-Lac, Priester, und Gefährten, Märtyrer in Vietnam (17.–19. Jh.) (G)
-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001203
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=3
 SUMMARY:Hl. Franz Xaver, Ordenspriester, Glaubensbote in Indien und Ostasien (1552) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001207
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=7
 SUMMARY:Hl. Ambrosius, Bischof von Mailand, Kirchenlehrer (397) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001213
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=13
 X-SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (G)
-X-DESCRIPTION:Liturgische Farbe: rot\nGeneralkalender
+X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001214
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=14
 SUMMARY:Hl. Johannes vom Kreuz, Ordenspriester, Kirchenlehrer (1591) (G)
-DESCRIPTION:Liturgische Farbe: weiß\nGeneralkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000509
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=9
 SUMMARY:Sel. Maria Theresia von Jesu Gerhardinger, Jungfrau, Ordensgründerin der Armen Schulschwestern v. U. lb. Frau. (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000616
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=16
 SUMMARY:Hl. Benno, Bischof von Meißen (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000716
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=16
 SUMMARY:Sel. Irmengard, Äbtissin von Buchau und Frauenchiemsee (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000918
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=18
 SUMMARY:Hl. Lantbert, Bischof von Freising (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000924
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=24
 SUMMARY:Hl. Rupert und hl. Virgil, Bischöfe von Salzburg, Glaubensboten (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001016
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=16
 SUMMARY:Hl. Hedwig von Andechs, Herzogin von Schlesien (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender, Generalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Generalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
 SUMMARY:Sel. Rupert Mayer, Priester (G)
-DESCRIPTION:Liturgische Farbe: weiß\nDiözesankalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender
 END:VEVENT
 END:VCALENDAR
