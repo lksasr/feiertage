@@ -3,6 +3,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:-//Apple Inc.//macOS 15.6.1//EN
 X-WR-CALNAME:Feste
+X-WR-CALDESC:Angepasst an den Diözesankalender München und Freising.
 X-APPLE-LANGUAGE:de
 X-APPLE-REGION:DE
 BEGIN:VEVENT
@@ -126,8 +127,8 @@ DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 UID:HlMariaMagdalena
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:19000723
-DTEND;VALUE=DATE:19000724
+DTSTART;VALUE=DATE:19990723
+DTEND;VALUE=DATE:19990724
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=23;BYMONTH=7
 SUMMARY:Hl. Birgitta von Schweden, Ordensgründerin, Patronin Europas (F)
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender, Generalkalender\n\nNichtgebotener Gedenktag im Generalkalender
