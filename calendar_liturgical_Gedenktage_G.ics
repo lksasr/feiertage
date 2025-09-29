@@ -217,7 +217,7 @@ SUMMARY:Hl. Monika, Mutter des Augustinus (387) (G)
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:190008
+DTSTART;VALUE=DATE:19000828
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=28
 SUMMARY:Hl. Augustinus, Bischof von Hippo, Kirchenlehrer (430) (G)
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
@@ -241,7 +241,7 @@ SUMMARY:Hl. Johannes Chrysostomus, Bischof von Konstantinopel, Kirchenlehrer (40
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:190009
+DTSTART;VALUE=DATE:19000915
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=15
 SUMMARY:Gedächtnis der Schmerzen Mariens (G)
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
