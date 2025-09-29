@@ -1881,15 +1881,15 @@ SUMMARY:Selige Märtyrer von Dachau (g)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Juni12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19000617
-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=17
-DTSTAMP:19001231T000000Z
-UID:HlQuirinusvonTegernsee
-SUMMARY:Hl. Quirinus von Tegernsee, Märyrer (g)
-X-URL:https://schott.erzabtei-beuron.de/proprium/Juni17.htm
-DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
-END:VEVENT
+X-BEGIN:VEVENT
+X-DTSTART;VALUE=DATE:19000617
+X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=17
+X-DTSTAMP:19001231T000000Z
+X-UID:HlQuirinusvonTegernsee
+X-SUMMARY:Hl. Quirinus von Tegernsee, Märyrer (g)
+X-X-URL:https://schott.erzabtei-beuron.de/proprium/Juni17.htm
+X-DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
+X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=30
@@ -2007,6 +2007,15 @@ SUMMARY:Sel. Bernhard Lichtenberg, Priester, Märtyrer. (g)
 X-URL:https://schott.erzabtei-beuron.de/proprium/November05.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
+X-BEGIN:VEVENT
+X-DTSTART;VALUE=DATE:19001113
+X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=13
+X-DTSTAMP:19001231T000000Z
+X-UID:HlArsacius
+X-SUMMARY: Hl. Arsacius, Bekenner (g)
+X-X-URL:https://schott.erzabtei-beuron.de/proprium/November13.htm
+X-DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
+X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=15
