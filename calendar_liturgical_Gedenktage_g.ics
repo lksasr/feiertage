@@ -1298,9 +1298,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000616
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=16
 X-DTSTAMP:19001231T000000Z
-UID:HlBenno
-SUMMARY:Hl. Benno, Bischof von Meißen (1106) (g)
-URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
+X-UID:HlBenno
+X-SUMMARY:Hl. Benno, Bischof von Meißen (1106) (g)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender\n\nGebotener Gedenktag im Diözesankalender 
 X-END:VEVENT
 BEGIN:VEVENT
