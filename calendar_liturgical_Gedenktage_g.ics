@@ -9,1076 +9,1652 @@ X-APPLE-REGION:DE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:HeiligsterNameJesu
 SUMMARY:Heiligster Name Jesu (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlRaimundvonPeñafort
 SUMMARY:Hl. Raimund von Peñafort, Ordensgründer (1275) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000113
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlHilarius
 SUMMARY:Hl. Hilarius, Bischof von Poitiers, Kirchenlehrer (um 367) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar13.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000120
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlFabian
 SUMMARY:Hl. Fabian, Papst, Märtyrer (250) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar20.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000120
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlSebastian
 SUMMARY:Hl. Sebastian, Märtyrer (288) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar20.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000122
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlVinzenz
 SUMMARY:Hl. Vinzenz, Diakon, Märtyrer in Spanien (304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar22.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000127
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlAngelaMerici
 SUMMARY:Hl. Angela Merici, Jungfrau, Ordensgründerin (1540) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000203
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:HlAnsgar
 SUMMARY:Hl. Ansgar, Bischof von Hamburg-Bremen, Glaubensbote in Skandinavien (865) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000203
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:HlBlasiusvonSebaste
 SUMMARY:Hl. Blasius von Sebaste, Bischof von Sebaste in Armenien, Märtyrer (um 316) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar03.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000208
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=8
+DTSTAMP:19001231T000000Z
+UID:HlHieronymusÄmiliani
 SUMMARY:Hl. Hieronymus Ämiliani, Ordensgründer (1537) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar08.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020208
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=8
+DTSTAMP:19001231T000000Z
+UID:HlJosefineBakhita
 SUMMARY:Hl. Josefine Bakhita, Ordensfrau (1947) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar08.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000211
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=11
+DTSTAMP:19001231T000000Z
+UID:UnsereLiebeFrauinLourdes
 SUMMARY:Unsere Liebe Frau in Lourdes (1858) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar11.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000217
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:DieSiebenheiligenGründerdesServitenordens
 SUMMARY:Die Sieben heiligen Gründer des Servitenordens (14. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000221
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlPetrusDamiani
 SUMMARY:Hl. Petrus Damiani, Bischof, Kirchenlehrer (1072) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210227
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlGregorvonNarek
 SUMMARY:Hl. Gregor von Narek, Abt und Kirchenlehrer (1005) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000304
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlKasimir
 SUMMARY:Hl. Kasimir, Königssohn (1484) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000308
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=8
+DTSTAMP:19001231T000000Z
+UID:HlJohannesvonGott
 SUMMARY:Hl. Johannes von Gott, Ordensgründer (1550) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März08.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000309
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlFranziska
 SUMMARY:Hl. Franziska, Witwe, Ordensgründerin in Rom (1440) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000317
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlPatrick
 SUMMARY:Hl. Patrick, Bischof, Glaubensbote in Irland (461) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000318
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=18
+DTSTAMP:19001231T000000Z
+UID:HlCyrill
 SUMMARY:Hl. Cyrill, Bischof von Jerusalem, Kirchenlehrer (386) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März18.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000323
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlTuribiovonMongrovejo
 SUMMARY:Hl. Turibio von Mongrovejo, Bischof von Lima (1606) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000402
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:HlFranzvonPaola
 SUMMARY:Hl. Franz von Paola, Einsiedler, Ordensgründer (1507) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April02.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000404
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlIsidor
 SUMMARY:Hl. Isidor, Bischof von Sevilla, Kirchenlehrer (636) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000405
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlVinzenzFerrer
 SUMMARY:Hl. Vinzenz Ferrer, Ordenspriester, Bußprediger (1419) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000413
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlMartinI
 SUMMARY:Hl. Martin I., Papst, Märtyrer (655) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April13.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000421
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlAnselm
 SUMMARY:Hl. Anselm, Bischof von Canterbury, Kirchenlehrer (1109) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000423
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlGeorg
 SUMMARY:Hl. Georg, Märtyrer in Kappadozien (4. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April23.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19970423
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlAdalbert
 SUMMARY:Hl. Adalbert, Bischof von Prag, Glaubensbote bei den Preußen, Märtyrer (997) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April23.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000424
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=24
+DTSTAMP:19001231T000000Z
+UID:HlFidelisvonSigmaringen
 SUMMARY:Hl. Fidelis von Sigmaringen, Ordenspriester, Märtyrer (1622) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April24.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000428
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=28
+DTSTAMP:19001231T000000Z
+UID:HlPierreChanel
 SUMMARY:Hl. Pierre Chanel, Priester, erster Märtyrer in Ozeanien (1841) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April28.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19970428
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=28
+DTSTAMP:19001231T000000Z
+UID:HlLudwigMariaGrigniondeMontfort
 SUMMARY:Hl. Ludwig Maria Grignion de Montfort, Priester (1716) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April28.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000430
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:HlPiusV
 SUMMARY:Hl. Pius V., Papst (1572) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April30.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000501
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=1
-X-SUMMARY:Hl. Josef der Arbeiter (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlJosefderArbeiter
+DTSTAMP:19001231T000000Z
+UID:HlJosefderArbeiter
+SUMMARY:Hl. Josef der Arbeiter (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April30.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Mai01.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210510
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=10
+DTSTAMP:19001231T000000Z
+UID:HlJohannesvonAvila
 SUMMARY:Hl. Johannes von Avila, Priester und Kirchenlehrer (1569) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai10.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000512
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlNereusundhlAchilleus
 SUMMARY:Hl. Nereus und hl. Achilleus, Märtyrer (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000512
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlPankratius
 SUMMARY:Hl. Pankratius, Märtyrer (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020513
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:UnsereLiebeFrauinFátima
 SUMMARY:Unsere Liebe Frau in Fátima (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai13.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000518
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=18
+DTSTAMP:19001231T000000Z
+UID:HlJohannesI
 SUMMARY:Hl. Johannes I., Papst, Märtyrer (526) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai18.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000520
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlBernhardinvonSiena
 SUMMARY:Hl. Bernhardin von Siena, Ordenspriester, Volksprediger (1444) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai20.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020521
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlChristophorusMagallanes
 SUMMARY:Hl. Christophorus Magallanes, Priester, und Gefährten, Märtyrer (1927) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai21.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020522
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlRitavonCascia
 SUMMARY:Hl. Rita von Cascia, Ordensfrau (1447) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai22.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000525
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlBedaderEhrwürdige
 SUMMARY:Hl. Beda der Ehrwürdige, Ordenspriester, Kirchenlehrer (735) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000525
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlGregorVII
 SUMMARY:Hl. Gregor VII., Papst (1085) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000525
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlMariaMagdalenadePazzi
 SUMMARY:Hl. Maria Magdalena de Pazzi, Ordensfrau (1607) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000527
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlAugustinus
 SUMMARY:Hl. Augustinus, Bischof von Canterbury, Glaubensbote in England (um 605) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190529
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=29
+DTSTAMP:19001231T000000Z
+UID:HlPaulVI
 SUMMARY:Hl. Paul VI., Papst (1978) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai29.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000602
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:hllPetrusundMarcellinus
 SUMMARY:hll. Petrus und Marcellinus, Märtyrer in Rom (303) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni02.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000606
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlNorbertvonXanten
 SUMMARY:Hl. Norbert von Xanten, Ordensgründer, Bischof von Magdeburg (1134) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000609
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:EphrämderSyrer
 SUMMARY:Ephräm der Syrer, Diakon, Kirchenlehrer (373) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000619
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlRomuald
 SUMMARY:Hl. Romuald, Abt, Ordensgründer (1027) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni19.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlPaulinus
 SUMMARY:Hl. Paulinus, Bischof von Nola (431) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni22.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlJohnFisher
 SUMMARY:Hl. John Fisher, Bischof von Rochester (1535), und hl. Thomas Morus, Lordkanzler, Märtyrer (1535) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni22.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000627
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlCyrill
 SUMMARY:Hl. Cyrill, Bischof von Alexandrien, Kirchenlehrer (444) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000630
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:DieerstenheiligenMärtyrerderStadtRom
 SUMMARY:Die ersten heiligen Märtyrer der Stadt Rom (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni30.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000704
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlElisabeth
 SUMMARY:Hl. Elisabeth, Königin von Portugal (1336) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000705
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlAntoniusMariaZaccaria
 SUMMARY:Hl. Antonius Maria Zaccaria, Priester, Ordensgründer (1539) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000706
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlMariaGoretti
 SUMMARY:Hl. Maria Goretti, Jungfrau, Märtyrin (1902) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli06.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020709
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlAugustinusZhaoRong
 SUMMARY:Hl. Augustinus Zhao Rong, Priester (1815), und Gefährten, Märtyrer in China (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli09.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000713
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlHeinrichII
 SUMMARY:Hl. Heinrich II. (1024) und hl. Kunigunde (1033), Kaiserpaar (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli13.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000714
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=14
+DTSTAMP:19001231T000000Z
+UID:HlKamillusvonLellis
 SUMMARY:Hl. Kamillus von Lellis, Priester, Ordensgründer (1614) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli14.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000716
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:UnsereLiebeFrauaufdemBergeKarmel
 SUMMARY:Unsere Liebe Frau auf dem Berge Karmel (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020720
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlApollinaris
 SUMMARY:Hl. Apollinaris, Bischof, Märtyrer (um 200) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli20.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000721
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlLaurentiusvonBrindisi
 SUMMARY:Hl. Laurentius von Brindisi, Ordenspriester, Kirchenlehrer (1619) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000723
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=23
-X-SUMMARY:Hl. Birgitta von Schweden, Ordensgründerin, Patronin Europas (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlBirgittavonSchweden
+DTSTAMP:19001231T000000Z
+UID:HlBirgittavonSchweden
+SUMMARY:Hl. Birgitta von Schweden, Ordensgründerin, Patronin Europas (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli23.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Juli23.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020724
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=24
+DTSTAMP:19001231T000000Z
+UID:HlScharbelMahluf
 SUMMARY:Hl. Scharbel Mahluf, Ordenspriester (1898) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli24.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:HlPetrusChrysologus
 SUMMARY:Hl. Petrus Chrysologus, Bischof von Ravenna, Kirchenlehrer (450) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli30.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000802
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:HlEusebius
 SUMMARY:Hl. Eusebius, Bischof von Vercelli, Märtyrer (371) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August02.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19960802
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:HlPierreJulienEymard
 SUMMARY:Hl. Pierre-Julien Eymard, Priester (1811–1868) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August02.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000805
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:WeihetagderBasilikaSantaMariaMaggioreinRom
 SUMMARY:Weihetag der Basilika Santa Maria Maggiore in Rom (um 434) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000807
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlXystusII
 SUMMARY:Hl. Xystus II., Papst, und Gefährten, Märtyrer (258) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August07.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000807
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlKajetanvonThiene
 SUMMARY:Hl. Kajetan von Thiene, Priester, Ordensgründer (1547) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:20020809
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=9
-X-SUMMARY:Hl. Theresia Benedicta vom Kreuz (Edith Stein), Märtyrin und Ordensfrau, Schutzpatron Europas (1891–1942) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlTheresiaBenedictavomKreuz
+DTSTAMP:19001231T000000Z
+UID:HlTheresiaBenedictavomKreuz
+SUMMARY:Hl. Theresia Benedicta vom Kreuz (Edith Stein), Märtyrin und Ordensfrau, Schutzpatron Europas (1891–1942) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August09.htm
+URL:https://schott.erzabtei-beuron.de/proprium/August09.htm
 X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20030812
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlJohannaFranziskavonChantal
+DTSTAMP:19001231T000000Z
+UID:HlJohannaFranziskavonChantal
 SUMMARY:Hl. Johanna Franziska von Chantal, Ordensgründerin (1641) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember12.htm
+URL:https://schott.erzabtei-beuron.de/proprium/August12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender\n\nBis 2002 am 12. Dezember
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000813
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlPontianus
 SUMMARY:Hl. Pontianus, Papst, und hl. Hippolyt, Priester, Märtyrer (235) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August13.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000816
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:HlStephan
 SUMMARY:Hl. Stephan, König von Ungarn (1038) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000819
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlJohannesEudes
 SUMMARY:Hl. Johannes Eudes, Priester, Ordensgründer (1680) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August19.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlRosavonLima
 SUMMARY:Hl. Rosa von Lima, Jungfrau (1617) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000825
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlLudwig
 SUMMARY:Hl. Ludwig, König von Frankreich (1270) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000825
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlJosefvonCalasanza
 SUMMARY:Hl. Josef von Calasanza, Priester, Ordensgründer (1648) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlTeresavonKalkutta
 SUMMARY:Hl. Teresa von Kalkutta (Mutter Teresa), Ordensgründerin (1910–1997) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19960909
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlPetrusClaver
 SUMMARY:Hl. Petrus Claver, Priester und Missionar (1580–1654) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020912
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:MariäNamen
 SUMMARY:Mariä Namen (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000917
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlRobertBellarmin
 SUMMARY:Hl. Robert Bellarmin, Ordenspriester, Bischof von Capua, Kirchenlehrer (1621) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190917
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlHildegardvonBingen
+DTSTAMP:19001231T000000Z
+UID:HlHildegardvonBingen
 SUMMARY:Hl. Hildegard von Bingen, Äbtissin, Mystikerin, Gründerin von Rupertsberg und Eibingen (1179) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September17.htm
+URL:https://schott.erzabtei-beuron.de/proprium/September17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000919
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlJanuarius
 SUMMARY:Hl. Januarius, Bischof von Neapel, Märtyrer (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September19.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000926
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:HllKosmasundDamian
 SUMMARY:Hll. Kosmas und Damian, Ärzte, Märtyrer in Kleinasien (303) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September26.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000928
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=28
+DTSTAMP:19001231T000000Z
+UID:HlWenzel
 SUMMARY:Hl. Wenzel, Herzog von Böhmen, Märtyrer (929) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September28.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000928
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=28
+DTSTAMP:19001231T000000Z
+UID:HlLorenzoRuizundGefährten
 SUMMARY:Hl. Lorenzo Ruiz und Gefährten, Märtyrer (1633–1637) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September28.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201005
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlMariaFaustynaKowalska
 SUMMARY:Hl. Maria Faustyna Kowalska, Jungfrau (1938) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001006
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlBruno
 SUMMARY:Hl. Bruno, Mönch, Einsiedler, Ordensgründer (1101) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001009
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlDionysius
 SUMMARY:Hl. Dionysius, Bischof von Paris, und Gefährten, Märtyrer (nach 250) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober09.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001009
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlJohannesLeonardi
 SUMMARY:Hl. Johannes Leonardi, Priester, Ordensgründer (1609) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141011
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=11
+DTSTAMP:19001231T000000Z
+UID:HlJohannesXXIII
 SUMMARY:Hl. Johannes XXIII., Papst (1963) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober11.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001014
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=14
+DTSTAMP:19001231T000000Z
+UID:HlKallistusI
 SUMMARY:Hl. Kallistus I., Papst, Märtyrer (222) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober14.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001016
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=16
-X-SUMMARY:Hl. Hedwig von Andechs, Herzogin von Schlesien (1243) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlHedwigvonAndechs
+SUMMARY:Hl. Hedwig von Andechs, Herzogin von Schlesien (1243) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober16.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 X-END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001016
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=16
-X-SUMMARY:Hl. Margareta Maria Alacoque, Ordensfrau (1690) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlMargaretaMariaAlacoque
+SUMMARY:Hl. Margareta Maria Alacoque, Ordensfrau (1690) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober16.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001019
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlJohannesdeBrébeuf
 SUMMARY:Hl. Johannes de Brébeuf, hl. Isaak Jogues, Priester, und Gefährten, Märtyrer in Nordamerika (1642–1649) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober19.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001019
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlPaulvomKreuz
 SUMMARY:Hl. Paul vom Kreuz, Priester, Ordensgründer (1775) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober19.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141022
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlJohannesPaulII
 SUMMARY:Hl. Johannes Paul II., Papst (2005) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober22.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001023
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlJohannesvonCapestrano
 SUMMARY:Hl. Johannes von Capestrano, Ordenspriester, Wanderprediger in Süddeutschland und Österreich (1456) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001024
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=24
+DTSTAMP:19001231T000000Z
+UID:HlAntoniusMariaClaret
 SUMMARY:Hl. Antonius Maria Claret, Bischof von Santiago in Kuba, Ordensgründer (1870) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober24.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001103
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
-X-SUMMARY:Hl. Martin von Porres, Ordensmann (1639) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlMartinvonPorres
+SUMMARY:Hl. Martin von Porres, Ordensmann (1639) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=15
+DTSTAMP:19001231T000000Z
+UID:HlAlbertderGroße
 SUMMARY:Hl. Albert der Große, Ordensmann, Kirchenlehrer, Bischof von Regensburg (1280) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November15.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001116
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:HlMargareta
 SUMMARY:Hl. Margareta, Königin von Schottland (1039) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001116
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=16
-X-SUMMARY:Hl. Gertrud von Helfta, Ordensfrau, Mystikerin (um 1302) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlGertrudvonHelfta
+DTSTAMP:19001231T000000Z
+UID:HlGertrudvonHelfta
+SUMMARY:Hl. Gertrud von Helfta, Ordensfrau, Mystikerin (um 1302) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November17.htm
+URL:https://schott.erzabtei-beuron.de/proprium/November16.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001118
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=18
+DTSTAMP:19001231T000000Z
+UID:WeihetagderBasilikenStPeterundStPaulzuRom1626
 SUMMARY:Weihetag der Basiliken St. Peter und St. Paul zu Rom (1626, 1854) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November18.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001123
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlKlemensvonRom
 SUMMARY:Hl. Klemens von Rom, Papst, Märtyrer (101) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November23.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001123
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlKolumban
 SUMMARY:Hl. Kolumban, Abt von Luxeuil und von Bobbio, Glaubensbote im Frankenreich (615) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20021125
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlKatharinavonAlexandrien
 SUMMARY:Hl. Katharina von Alexandrien, Märtyrin (4. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November25.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001204
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlJohannesvonDamaskus
 SUMMARY:Hl. Johannes von Damaskus, Priester, Kirchenlehrer (um 750) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001206
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlNikolaus
 SUMMARY:Hl. Nikolaus, Bischof von Myra (um 350) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20021209
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlJuanDiegoCuauhtlatoatzin
 SUMMARY:Hl. Juan Diego Cuauhtlatoatzin, Laienapostel (1548) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191210
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=10
+DTSTAMP:19001231T000000Z
+UID:UnsereLiebeFrauvonLoreto
 SUMMARY:Unsere Liebe Frau von Loreto (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember10.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001211
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=11
+DTSTAMP:19001231T000000Z
+UID:HlDamasusI
 SUMMARY:Hl. Damasus I., Papst (384) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember11.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20021212
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:UnsereLiebeFrauinGuadalupe
 SUMMARY:Unsere Liebe Frau in Guadalupe (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001212
 RRULE:FREQ=YEARLY;UNTIL=20021231;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlJohannaFranziskavonChantal
+DTSTAMP:19001231T000000Z
+UID:HlJohannaFranziskavonChantal
 SUMMARY:Hl. Johanna Franziska von Chantal, Ordensgründerin (1641) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember12.htm
+URL:https://schott.erzabtei-beuron.de/proprium/August12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001221
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=21
-X-SUMMARY:Hl. Petrus Kanisius, Ordenspriester, Kirchenlehrer (1597) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlPetrusKanisius
+DTSTAMP:19001231T000000Z
+UID:HlPetrusKanisius
+SUMMARY:Hl. Petrus Kanisius, Ordenspriester, Kirchenlehrer (1597) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April27.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember21.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001223
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlJohannesvonKrakau
 SUMMARY:Hl. Johannes von Krakau, Priester (1473) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001229
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=29
+DTSTAMP:19001231T000000Z
+UID:HlThomasBecket
 SUMMARY:Hl. Thomas Becket, Bischof von Canterbury, Märtyrer (1170) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember29.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001231
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=31
+DTSTAMP:19001231T000000Z
+UID:HlSilvesterI
 SUMMARY:Hl. Silvester I., Papst (335) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember31.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlValentinvonRätien
 SUMMARY:Hl. Valentin von Rätien, Bischof von Rätien (um 475) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000108
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=8
+DTSTAMP:19001231T000000Z
+UID:HlSeverinvonNorikum
 SUMMARY:Hl. Severin von Norikum, Mönch in Norikum (482) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar08.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20040105
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlJohannesNepomukNeumann
 SUMMARY:Hl. Johannes Nepomuk Neumann, Bischof, Glaubensbote in den Vereinigten Staaten (1860) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000121
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlAgnes
 SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar21.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender, Regionalkalender\n\nGebotener Gedenktag im Generalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000121
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlMeinrad
 SUMMARY:Hl. Meinrad, Mönch auf der Reichenau, Einsiedler, Märtyrer (861) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar21.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000123
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:SelHeinrichSeuse
 SUMMARY:Sel. Heinrich Seuse, Ordenspriester, Mystiker (1366) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000204
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlRabanusMaurus
 SUMMARY:Hl. Rabanus Maurus, Erzbischof von Mainz (856) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000225
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlWalburga
 SUMMARY:Hl. Walburga, Äbtissin von Heidenheim in Franken (779) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000306
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlFridolinvonSäckingen
 SUMMARY:Hl. Fridolin von Säckingen, Mönch, Glaubensbote (7. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000309
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlBrunovonQuerfurt
 SUMMARY:Hl. Bruno von Querfurt, Bischof von Magdeburg, Glaubensbote bei den Preußen, Märtyrer (1009) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März09.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000314
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=14
+DTSTAMP:19001231T000000Z
+UID:HlMathilde
 SUMMARY:Hl. Mathilde, Gemahlin König Heinrichs I. (968) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März14.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000315
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=15
+DTSTAMP:19001231T000000Z
+UID:HlKlemensMariaHofbauer
 SUMMARY:Hl. Klemens Maria Hofbauer, Ordenspriester (1820 in Wien) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März15.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000317
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlGertrud
 SUMMARY:Hl. Gertrud, Äbtissin von Nivelles (um 655) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000326
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:HlLiudger
 SUMMARY:Hl. Liudger, Bischof von Münster, Glaubensbote (809) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März26.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000419
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:HlLeoIX
 SUMMARY:Hl. Leo IX., Papst (1054) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April19.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20040419
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=19
+DTSTAMP:19001231T000000Z
+UID:SelMarcelCallo
 SUMMARY:Sel. Marcel Callo, Märtyrer (1945) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April19.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000421
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlKonradvonParzham
 SUMMARY:Hl. Konrad von Parzham, Ordensbruder in Altötting (1894) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000427
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlPetrusKanisius
+DTSTAMP:19001231T000000Z
+UID:HlPetrusKanisius
 SUMMARY:Hl. Petrus Kanisius, Ordenspriester, Kirchenlehrer (1597) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April27.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender\n\nIm Generalkalender am 21. Dezember
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000504
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlFlorian
 SUMMARY:Hl. Florian (304) und die Märtyrer von Lorch (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai04.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000505
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlGodehard
 SUMMARY:Hl. Godehard, Bischof von Hildesheim (1038) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000516
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:HlJohannesNepomuk
 SUMMARY:Hl. Johannes Nepomuk, Priester, Märtyrer (1393) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai16.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000521
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlHermannJosef
 SUMMARY:Hl. Hermann Josef, Ordenspriester, Mystiker (1241) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai21.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000615
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=15
+DTSTAMP:19001231T000000Z
+UID:HlVitus
 SUMMARY:Hl. Vitus (Veit), Märtyrer in Sizilien (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni15.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000616
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=16
-X-SUMMARY:Hl. Benno, Bischof von Meißen (1106) (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlBenno
+SUMMARY:Hl. Benno, Bischof von Meißen (1106) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender\n\nGebotener Gedenktag im Diözesankalender 
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000627
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:HlHemmavonGurk
 SUMMARY:Hl. Hemma von Gurk, Stifterin von Gurk und Admont (1045) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000630
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:HlOtto
 SUMMARY:Hl. Otto, Bischof von Bamberg, Glaubensbote in Pommern (1139) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni30.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000704
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlUlrich
 SUMMARY:Hl. Ulrich, Bischof von Augsburg (973) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000707
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlWillibald
 SUMMARY:Hl. Willibald, Bischof von Eichstätt, Glaubensbote (787) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000708
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=8
+DTSTAMP:19001231T000000Z
+UID:HlKilian
 SUMMARY:Hl. Kilian, Bischof von Würzburg, und Gefährten, Glaubensboten, Märtyrer (um 689) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli08.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000710
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=10
+DTSTAMP:19001231T000000Z
+UID:HllKnud
 SUMMARY:Hll. Knud, König von Dänemark, Märtyrer (1086), Erich, König von Schweden, Märtyrer (1160) und Olaf, König von Norwegen (1030) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli10.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000720
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlMargareta
 SUMMARY:Hl. Margareta, Jungfrau, Märtyrin in Antiochien (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli20.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000723
 RRULE:FREQ=YEARLY;UNTIL=19981231;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=23
+DTSTAMP:19001231T000000Z
+UID:HlBirgittavonSchweden
+DTSTAMP:19001231T000000Z
+UID:HlBirgittavonSchweden
 SUMMARY:Hl. Birgitta von Schweden, Ordensgründerin, Patronin Europas (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli23.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Juli23.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000724
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=24
+DTSTAMP:19001231T000000Z
+UID:HlChristophorus
 SUMMARY:Hl. Christophorus, Märtyrer in Kleinasien (um 250) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli24.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000809
 RRULE:FREQ=YEARLY;UNTIL=19991231;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlTheresiaBenedictavomKreuz
+DTSTAMP:19001231T000000Z
+UID:HlTheresiaBenedictavomKreuz
 SUMMARY:Hl. Theresia Benedicta vom Kreuz (Edith Stein), Märtyrin und Ordensfrau, Schutzpatron Europas (1891–1942) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August09.htm
+URL:https://schott.erzabtei-beuron.de/proprium/August09.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000831
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=31
+DTSTAMP:19001231T000000Z
+UID:HlPaulinus
 SUMMARY:Hl. Paulinus, Bischof von Trier, Märtyrer (358) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August31.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000917
 RRULE:FREQ=YEARLY;UNTIL=20181231;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlHildegardvonBingen
+DTSTAMP:19001231T000000Z
+UID:HlHildegardvonBingen
 SUMMARY:Hl. Hildegard von Bingen, Äbtissin, Mystikerin, Gründerin von Rupertsberg und Eibingen (1179) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September17.htm
+URL:https://schott.erzabtei-beuron.de/proprium/September17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000918
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=18
+DTSTAMP:19001231T000000Z
+UID:HlLambertus
 SUMMARY:Hl. Lambertus, Bischof von Maastricht (Tongern), Glaubensbote in Brabant, Märtyrer (um 705) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000922
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlMauritiusundGefährten
 SUMMARY:Hl. Mauritius und Gefährten, Märtyrer der Thebäischen Legion (280–305) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September22.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000924
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=24
+DTSTAMP:19001231T000000Z
+UID:HlRupert
 SUMMARY:Hl. Rupert (718) und hl. Virgil (784), Bischöfe von Salzburg, Glaubensboten (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender\n\nGebotener Gedenktag im Diözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000925
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=25
+DTSTAMP:19001231T000000Z
+UID:HlNiklausvonFlüe
 SUMMARY:Hl. Niklaus von Flüe, Einsiedler, Friedensstifter (1487) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September25.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000928
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=28
+DTSTAMP:19001231T000000Z
+UID:HlLioba
 SUMMARY:Hl. Lioba, Äbtissin von Tauberbischofsheim (um 782) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September28.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001016
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:HlGallus
 SUMMARY:Hl. Gallus, Mönch, Einsiedler, Glaubensbote am Bodensee (um 640) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001020
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=20
+DTSTAMP:19001231T000000Z
+UID:HlWendelin
 SUMMARY:Hl. Wendelin, Einsiedler im Saarland (6. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober20.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001021
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=21
+DTSTAMP:19001231T000000Z
+UID:HlUrsulaundGefährtinnen
 SUMMARY:Hl. Ursula und Gefährtinnen, Jungfrauen und Märtyrinnen in Köln (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober21.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001031
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=31
+DTSTAMP:19001231T000000Z
+UID:HlWolfgang
 SUMMARY:Hl. Wolfgang, Bischof von Regensburg (994) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober31.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:HlHubert
 SUMMARY:Hl. Hubert, Bischof von Lüttich (727) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20041103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:SelRupertMayer
 SUMMARY:Sel. Rupert Mayer, Ordenspriester (1945) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
+DTSTAMP:19001231T000000Z
+UID:HlPirmin
 SUMMARY:Hl. Pirmin, Abtbischof, Glaubensbote am Oberrhein (753) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001106
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlLeonhard
 SUMMARY:Hl. Leonhard, Einsiedler von Limoges (6. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001107
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlWillibrord
 SUMMARY:Hl. Willibrord, Bischof von Utrecht, Glaubensbote bei den Friesen (739) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=15
+DTSTAMP:19001231T000000Z
+UID:HlLeopold
 SUMMARY:Hl. Leopold, Markgraf von Österreich (1136) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November15.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001117
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlGertrudvonHelfta
+DTSTAMP:19001231T000000Z
+UID:HlGertrudvonHelfta
 SUMMARY:Hl. Gertrud von Helfta, Ordensfrau, Mystikerin (um 1302) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November17.htm
+URL:https://schott.erzabtei-beuron.de/proprium/November16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender\n\nIm Generalkalender am 16. November
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001126
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:HlKonrad
 SUMMARY:Hl. Konrad (975) und hl. Gebhard (995), Bischöfe von Konstanz (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November26.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001202
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:HlLuzius
 SUMMARY:Hl. Luzius, Bischof von Chur, Märtyrer (5./6. Jh.) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember02.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001204
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:HlBarbara
 SUMMARY:Hl. Barbara, Jungfrau und Märtyrin in Nikomedien (306) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember04.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20041204
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=4
+DTSTAMP:19001231T000000Z
+UID:SelAdolphKolping
 SUMMARY:Sel. Adolph Kolping, Priester (1865) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember04.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001205
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlAnno
 SUMMARY:Hl. Anno, Bischof von Köln, Reichskanzler (1075) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001213
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlLuzia
 SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender, Generalkalender\n\nGebotener Gedenktag im Generalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001213
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlOdilia
 SUMMARY:Hl. Odilia, Äbtissin, Gründerin von Odilienberg und Niedermünster im Elsaß (um 720) (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
 END:VEVENT
 
@@ -1086,163 +1662,247 @@ END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000105
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=5
-X-SUMMARY:Hl. Johannes Nepomuk Neumann, Bischof, Glaubensbote (g)
+X-DTSTAMP:19001231T000000Z
+UID:HlJohannesNepomukNeumann
+SUMMARY:Hl. Johannes Nepomuk Neumann, Bischof, Glaubensbote (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar05.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000122
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlVinzenzPallotti
 SUMMARY:Hl. Vinzenz Pallotti, Priester, Ordensgründer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar22.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000127
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=27
+DTSTAMP:19001231T000000Z
+UID:SelPaulJosefNardini
 SUMMARY:Sel. Paul Josef Nardini, Priester, Ordensgründer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar27.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000209
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=9
+DTSTAMP:19001231T000000Z
+UID:HlAlto
 SUMMARY:Hl. Alto, Glaubensbote, Gründerabt von Altomünster (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000226
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:SelEdignavonPuch
 SUMMARY:Sel. Edigna von Puch, Jungfrau, Einsiedlerin (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar26.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000326
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:HlKastulus
 SUMMARY:Hl. Kastulus, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/März26.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000412
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlZeno
 SUMMARY:Hl. Zeno, Bischof von Verona (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000430
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:HlJosefderArbeiter
+DTSTAMP:19001231T000000Z
+UID:HlJosefderArbeiter
 SUMMARY:Hl. Josef der Arbeiter (g)
+URL:https://schott.erzabtei-beuron.de/proprium/April30.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Mai01.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Diözesankalender\n\nIm Generalkalender am 1. Mai
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000506
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlSigismund
 SUMMARY:Hl. Sigismund, König der Burgunder, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai06.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000612
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:SeligeMärtyrervonDachau
 SUMMARY:Selige Märtyrer von Dachau (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000617
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=17
+DTSTAMP:19001231T000000Z
+UID:HlQuirinusvonTegernsee
 SUMMARY:Hl. Quirinus von Tegernsee, Märyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni17.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=30
+DTSTAMP:19001231T000000Z
+UID:SelBatho
 SUMMARY:Sel. Batho, Priester in Freising, Glaubensbote (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli30.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000807
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:HlAfra
 SUMMARY:Hl. Afra, Märtyrin in Augsburg (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August07.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000812
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:SelKarlLeisner
 SUMMARY:Sel. Karl Leisner, Priester, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/August12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000902
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=2
+DTSTAMP:19001231T000000Z
+UID:HlNonnosus
 SUMMARY:Hl. Nonnosus, Abt von Sorakte (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September02.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000906
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=6
+DTSTAMP:19001231T000000Z
+UID:HlMagnus
 SUMMARY:Hl. Magnus, Mönch, Glaubensbote im Allgäu (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September06.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000907
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=7
+DTSTAMP:19001231T000000Z
+UID:SelOtto
 SUMMARY:Sel. Otto, Bischof von Freising (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September07.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000911
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=11
+DTSTAMP:19001231T000000Z
+UID:HlNotburga
 SUMMARY:Hl. Notburga, Dienstmagd in Eben/Tirol (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September11.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000922
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=22
+DTSTAMP:19001231T000000Z
+UID:HlEmmeram
 SUMMARY:Hl. Emmeram, Bischof von Regensburg, Glaubensbote in Bayern, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September22.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000926
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=26
+DTSTAMP:19001231T000000Z
+UID:SelKasparStanggassinger
 SUMMARY:Sel. Kaspar Stanggassinger, Priester (g)
+URL:https://schott.erzabtei-beuron.de/proprium/September26.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001012
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:HlMaximilianvomPongau
 SUMMARY:Hl. Maximilian vom Pongau, Bischof, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober12.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001013
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=13
+DTSTAMP:19001231T000000Z
+UID:HlMargaretaMariaAlacoque
 SUMMARY:Hl. Margareta Maria Alacoque, Ordensfrau (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober13.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Diözesankalender\n\nIm Generalkalender am 16. Oktober
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001105
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:HlMartinvonPorres
 SUMMARY:Hl. Martin von Porres, Ordensmann (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November05.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Diözesankalender\n\nIm Generalkalender am 3. November
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001105
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=5
+DTSTAMP:19001231T000000Z
+UID:SelBernhardLichtenberg
 SUMMARY:Sel. Bernhard Lichtenberg, Priester, Märtyrer. (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November05.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=15
+DTSTAMP:19001231T000000Z
+UID:HlMarinus
 SUMMARY:Hl. Marinus, Bischof, und hl. Anianus, Diakon, Glaubensboten in Bayern, Märtyrer (g)
+URL:https://schott.erzabtei-beuron.de/proprium/November15.htm
 DESCRIPTION:Liturgische Farbe: Rot\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001212
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=12
+DTSTAMP:19001231T000000Z
+UID:SelHartmann
 SUMMARY:Sel. Hartmann, Bischof von Brixen. (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember12.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001216
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=16
+DTSTAMP:19001231T000000Z
+UID:HlSturmius
 SUMMARY:Hl. Sturmius, Gründerabt von Fulda (g)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 END:VCALENDAR
