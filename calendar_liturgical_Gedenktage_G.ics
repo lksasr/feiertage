@@ -28,9 +28,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000121
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=1;BYMONTHDAY=21
 X-DTSTAMP:19001231T000000Z
-UID:HlAgnes
-SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Januar21.htm
+X-UID:HlAgnes
+X-SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Januar21_1.htm
 X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -100,9 +100,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000214
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=2;BYMONTHDAY=14
 X-DTSTAMP:19001231T000000Z
-UID:HlCyrill
-SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
+X-UID:HlCyrill
+X-SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +120,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=7
 DTSTAMP:19001231T000000Z
 UID:HlPerpetuaundhlFelicitas
 SUMMARY:Hl. Perpetua und hl. Felicitas, Märtyrinnen in Karthago (202/203) (G)
-URL:https://schott.erzabtei-beuron.de/proprium/März07.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Maerz07.htm
 DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 END:VEVENT
 BEGIN:VEVENT
@@ -145,9 +145,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000429
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=4;BYMONTHDAY=29
 X-DTSTAMP:19001231T000000Z
-UID:HlKatharinavonSiena
-SUMMARY:Hl. Katharina von Siena, Ordensfrau, Kirchenlehrerin, Patronin Europas (G)
-URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
+X-UID:HlKatharinavonSiena
+X-SUMMARY:Hl. Katharina von Siena, Ordensfrau, Kirchenlehrerin, Patronin Europas (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -190,9 +190,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000605
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=5
 X-DTSTAMP:19001231T000000Z
-UID:HlBonifatius
-SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märtyrer (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
+X-UID:HlBonifatius
+X-SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märtyrer (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
 X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -541,12 +541,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001117
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=17
 X-DTSTAMP:19001231T000000Z
-UID:HlElisabeth
-DTSTAMP:19001231T000000Z
-UID:HlElisabeth
-SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
-URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
-URL:https://schott.erzabtei-beuron.de/proprium/November17.htm
+X-UID:HlElisabeth
+X-SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
 X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -598,9 +595,9 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001213
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=12;BYMONTHDAY=13
 X-DTSTAMP:19001231T000000Z
-UID:HlLuzia
-SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
+X-UID:HlLuzia
+X-SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
 X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
 X-END:VEVENT
 BEGIN:VEVENT
@@ -618,11 +615,8 @@ DTSTART;VALUE=DATE:19001119
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=19
 DTSTAMP:19001231T000000Z
 UID:HlElisabeth
-DTSTAMP:19001231T000000Z
-UID:HlElisabeth
 SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
-URL:https://schott.erzabtei-beuron.de/proprium/November17.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender\n\nIm Generalkalender am 17. November
 END:VEVENT
 
@@ -632,7 +626,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=5;BYMONTHDAY=9
 DTSTAMP:19001231T000000Z
 UID:SelMariaTheresiavonJesuGerhardinger
 SUMMARY:Sel. Maria Theresia von Jesu Gerhardinger, Jungfrau, Ordensgründerin der Armen Schulschwestern v. U. lb. Frau. (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Mai09.htm
+X-URL:https://schott.erzabtei-beuron.de/proprium/Mai09.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
@@ -642,7 +636,7 @@ DTSTAMP:19001231T000000Z
 UID:HlBenno
 SUMMARY:Hl. Benno, Bischof von Meißen (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
-DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender\n\nNichtgebotener Gedenktag im Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000716
@@ -650,7 +644,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=16
 DTSTAMP:19001231T000000Z
 UID:SelIrmengard
 SUMMARY:Sel. Irmengard, Äbtissin von Buchau und Frauenchiemsee (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Juli16.htm
+X-URL:https://schott.erzabtei-beuron.de/proprium/Juli16.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
@@ -659,7 +653,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=18
 DTSTAMP:19001231T000000Z
 UID:HlLantbert
 SUMMARY:Hl. Lantbert, Bischof von Freising (G)
-URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
+X-URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
 END:VEVENT
 BEGIN:VEVENT
@@ -669,7 +663,7 @@ DTSTAMP:19001231T000000Z
 UID:HlRupertundhlVirgil
 SUMMARY:Hl. Rupert und hl. Virgil, Bischöfe von Salzburg, Glaubensboten (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
-DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender
+DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender\n\nNichtgebotener Gedenktag im Regionalkalender
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001016
@@ -677,7 +671,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=10;BYMONTHDAY=16
 DTSTAMP:19001231T000000Z
 UID:HlHedwigvonAndechs
 SUMMARY:Hl. Hedwig von Andechs, Herzogin von Schlesien (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Oktober16.htm
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober16_2.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Generalkalender
 END:VEVENT
 BEGIN:VEVENT
@@ -686,7 +680,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
 DTSTAMP:19001231T000000Z
 UID:SelRupertMayer
 SUMMARY:Sel. Rupert Mayer, Priester (G)
-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
+X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 DESCRIPTION:Liturgische Farbe: Weiß\nDiözesankalender, Regionalkalender
 END:VEVENT
 END:VCALENDAR
