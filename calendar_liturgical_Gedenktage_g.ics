@@ -1429,15 +1429,15 @@ SUMMARY:Hl. Mauritius und Gefährten, Märtyrer der Thebäischen Legion (280–3
 URL:https://schott.erzabtei-beuron.de/proprium/September22.htm
 DESCRIPTION:Liturgische Farbe: Rot\nRegionalkalender
 END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19000924
-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=24
-DTSTAMP:19001231T000000Z
-UID:HlRupert
-SUMMARY:Hl. Rupert (718) und hl. Virgil (784), Bischöfe von Salzburg, Glaubensboten (g)
-URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
-DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender\n\nGebotener Gedenktag im Diözesankalender
-END:VEVENT
+X-BEGIN:VEVENT
+X-DTSTART;VALUE=DATE:19000924
+X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=24
+X-DTSTAMP:19001231T000000Z
+X-UID:HlRupert
+X-SUMMARY:Hl. Rupert (718) und hl. Virgil (784), Bischöfe von Salzburg, Glaubensboten (g)
+X-URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
+X-DESCRIPTION:Liturgische Farbe: Weiß\nRegionalkalender
+X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000925
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=25
