@@ -16,7 +16,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -29,7 +29,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar17.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -42,7 +42,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Januar21_1.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar24.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +94,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Januar31.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +107,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Februar05.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +120,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Februar06.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -133,7 +133,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Februar10.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -146,7 +146,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +159,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Februar23.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -172,7 +172,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Maerz07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -185,7 +185,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/April07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -198,7 +198,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/April11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -211,7 +211,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -224,7 +224,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Mai02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -237,7 +237,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Mai26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -263,7 +263,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -276,7 +276,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -289,7 +289,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -302,7 +302,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni13.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -328,7 +328,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -341,7 +341,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juli11.htm
 X-LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -354,7 +354,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juli15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -367,7 +367,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juli26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -380,7 +380,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juli29.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -393,7 +393,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juli31.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -406,7 +406,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -419,7 +419,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -432,7 +432,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August08.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -445,7 +445,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -458,7 +458,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August14.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -471,7 +471,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August20.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -484,7 +484,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -497,7 +497,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August22.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -510,7 +510,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August27.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -523,7 +523,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -536,7 +536,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/August29.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -549,7 +549,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -562,7 +562,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September13.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -575,7 +575,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -588,7 +588,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September16.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -601,7 +601,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September20.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -614,7 +614,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September23.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -627,7 +627,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September27.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -640,7 +640,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September30.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -653,7 +653,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -666,7 +666,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -679,7 +679,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -692,7 +692,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -705,7 +705,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -718,7 +718,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober17.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -731,7 +731,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -744,7 +744,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November10.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -757,7 +757,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +770,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November12.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -783,7 +783,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
 X-LOCATION:Generalkalender, Regionalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -796,7 +796,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -809,7 +809,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November22.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -822,7 +822,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November24.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -835,7 +835,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Dezember03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -848,7 +848,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Dezember07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
@@ -861,7 +861,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
 X-TRANSP:TRANSPARENT
-X-CATEGORY:Gebotener Gedenktag
+X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
@@ -874,7 +874,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Dezember14.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 
@@ -887,7 +887,7 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -900,7 +900,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-2
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -913,7 +913,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-3
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -926,7 +926,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-4
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-5
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -952,7 +952,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-6
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -965,7 +965,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-7
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -978,7 +978,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-8
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -991,7 +991,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-9
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,7 +1004,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-10
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,7 +1017,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-11
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1030,7 +1030,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-12
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,7 +1043,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-13
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,7 +1056,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-14
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,7 +1069,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-15
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,7 +1082,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-16
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,7 +1095,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-17
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1108,7 +1108,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-18
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1121,7 +1121,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-19
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 
@@ -1134,7 +1134,7 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1147,7 +1147,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-2
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1160,7 +1160,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-3
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1173,7 +1173,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-4
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1186,7 +1186,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-5
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1199,7 +1199,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-6
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1212,7 +1212,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-7
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1225,7 +1225,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-8
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1238,7 +1238,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-9
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1251,7 +1251,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-10
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1264,7 +1264,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-11
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1277,7 +1277,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-12
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1290,7 +1290,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-13
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1303,7 +1303,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-14
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,7 +1316,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-15
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1329,7 +1329,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-16
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1342,7 +1342,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-17
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1355,7 +1355,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-18
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1368,7 +1368,7 @@ DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-19
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 
@@ -1382,7 +1382,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nIm Generalkalender am 17. November
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 
@@ -1396,7 +1396,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Mai09.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1409,7 +1409,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1422,7 +1422,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/Juli16.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,7 +1435,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1448,7 +1448,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1461,7 +1461,7 @@ URL:https://schott.erzabtei-beuron.de/proprium/Oktober16_2.htm
 LOCATION:Diözesankalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
@@ -1474,7 +1474,7 @@ X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
-CATEGORY:Gebotener Gedenktag
+CATEGORIES:Gebotener Gedenktag
 PRIORITY:7
 END:VEVENT
 END:VCALENDAR
