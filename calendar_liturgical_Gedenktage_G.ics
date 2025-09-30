@@ -15,6 +15,9 @@ SUMMARY:Hl. Basilius der Große (379) und hl. Gregor von Nazianz (um 390), Bisch
 URL:https://schott.erzabtei-beuron.de/proprium/Januar02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000117
@@ -25,6 +28,9 @@ SUMMARY:Hl. Antonius, Mönchsvater in Ägypten (356) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Januar17.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000121
@@ -35,6 +41,9 @@ X-SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Januar21_1.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000124
@@ -45,6 +54,9 @@ SUMMARY:Hl. Franz von Sales, Bischof von Genf, Ordensgründer, Kirchenlehrer (16
 URL:https://schott.erzabtei-beuron.de/proprium/Januar24.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000126
@@ -55,6 +67,9 @@ SUMMARY:Hl. Timotheus und hl. Titus, Bischöfe, Apostelschüler (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Januar26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000128
@@ -65,6 +80,9 @@ SUMMARY:Hl. Thomas von Aquin, Ordenspriester, Kirchenlehrer (1274) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Januar28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000131
@@ -75,6 +93,9 @@ SUMMARY:Hl. Johannes Bosco, Priester, Ordensgründer (1888) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Januar31.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000205
@@ -85,6 +106,9 @@ SUMMARY:Hl. Agatha, Jungfrau, Märtyrin in Catania (um 250) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Februar05.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000206
@@ -95,6 +119,9 @@ SUMMARY:Hl. Paul Miki und Gefährten, Märtyrer in Nagasaki (1597) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Februar06.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000210
@@ -105,6 +132,9 @@ SUMMARY:Hl. Scholastika, Jungfrau (um 547) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Februar10.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000214
@@ -115,6 +145,9 @@ X-SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensb
 X-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000223
@@ -125,6 +158,9 @@ SUMMARY:Hl. Polykarp, Bischof von Smyrna, Märtyrer (155) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Februar23.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000307
@@ -135,6 +171,9 @@ SUMMARY:Hl. Perpetua und hl. Felicitas, Märtyrinnen in Karthago (202/203) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Maerz07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000407
@@ -145,6 +184,9 @@ SUMMARY:Hl. Jean Baptiste de La Salle, Priester, Ordensgründer (1719) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/April07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000411
@@ -155,6 +197,9 @@ SUMMARY:Hl. Stanislaus, Bischof von Krakau, Märtyrer (1079) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/April11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000429
@@ -165,6 +210,9 @@ X-SUMMARY:Hl. Katharina von Siena, Ordensfrau, Kirchenlehrerin, Patronin Europas
 X-URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000502
@@ -175,6 +223,9 @@ SUMMARY:Hl. Athanasius, Bischof von Alexandrien, Kirchenlehrer (373) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Mai02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000526
@@ -185,6 +236,9 @@ SUMMARY:Hl. Philipp Neri, Priester, Gründer des Oratoriums (1595) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Mai26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000601
@@ -195,6 +249,9 @@ SUMMARY:Hl. Justin, Philosoph, Märtyrer (um 165) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000603
@@ -205,6 +262,9 @@ SUMMARY:Hl. Karl Lwanga und Gefährten, Märtyrer in Uganda (1886) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000605
@@ -215,6 +275,9 @@ X-SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märty
 X-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000611
@@ -225,6 +288,9 @@ SUMMARY:Hl. Barnabas, Apostel (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000613
@@ -235,6 +301,9 @@ SUMMARY:Hl. Antonius von Padua, Ordenspriester, Kirchenlehrer (1231) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni13.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000621
@@ -245,6 +314,9 @@ SUMMARY:Hl. Aloisius von Gonzaga, Ordensmann (1591) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000628
@@ -255,6 +327,9 @@ SUMMARY:Hl. Irenäus, Bischof von Lyon, Märtyrer (um 202) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000711
@@ -265,6 +340,9 @@ SUMMARY:Hl. Benedikt von Nursia, Vater des abendländischen Mönchtums, Patron E
 URL:https://schott.erzabtei-beuron.de/proprium/Juli11.htm
 X-LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000715
@@ -275,6 +353,9 @@ SUMMARY:Hl. Bonaventura, Ordensmann, Bischof, Kirchenlehrer (1274) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000726
@@ -285,6 +366,9 @@ SUMMARY:Hl. Joachim und hl. Anna, Eltern der Gottesmutter Maria (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000729
@@ -295,6 +379,9 @@ SUMMARY:Hl. Martha, Maria und Lazarus (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli29.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000731
@@ -305,6 +392,9 @@ SUMMARY:Hl. Ignatius von Loyola, Priester, Ordensgründer (1556) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli31.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000801
@@ -315,6 +405,9 @@ SUMMARY:Hl. Alfons Maria von Liguori, Ordensgründer, Bischof, Kirchenlehrer (17
 URL:https://schott.erzabtei-beuron.de/proprium/August01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000804
@@ -325,6 +418,9 @@ SUMMARY:Hl. Johannes Maria Vianney, Pfarrer von Ars (1859) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000808
@@ -335,6 +431,9 @@ SUMMARY:Hl. Dominikus, Priester, Ordensgründer (1221) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August08.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000811
@@ -345,6 +444,9 @@ SUMMARY:Hl. Klara von Assisi, Jungfrau, Ordensgründerin (1253) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000814
@@ -355,6 +457,9 @@ SUMMARY:Hl. Maximilian Kolbe, Ordenspriester, Märtyrer (1941) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August14.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000820
@@ -365,6 +470,9 @@ SUMMARY:Hl. Bernhard von Clairvaux, Abt, Kirchenlehrer (1153) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August20.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000821
@@ -375,6 +483,9 @@ SUMMARY:Hl. Pius X., Papst (1914) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000822
@@ -385,6 +496,9 @@ SUMMARY:Maria Königin (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August22.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000827
@@ -395,6 +509,9 @@ SUMMARY:Hl. Monika, Mutter des Augustinus (387) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August27.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000828
@@ -405,6 +522,9 @@ SUMMARY:Hl. Augustinus, Bischof von Hippo, Kirchenlehrer (430) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000829
@@ -415,6 +535,9 @@ SUMMARY:Enthauptung des hl. Johannes des Täufers (G)
 URL:https://schott.erzabtei-beuron.de/proprium/August29.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000903
@@ -425,6 +548,9 @@ SUMMARY:Hl. Gregor der Große, Papst, Kirchenlehrer (604) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000913
@@ -435,6 +561,9 @@ SUMMARY:Hl. Johannes Chrysostomus, Bischof von Konstantinopel, Kirchenlehrer (40
 URL:https://schott.erzabtei-beuron.de/proprium/September13.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000915
@@ -445,6 +574,9 @@ SUMMARY:Gedächtnis der Schmerzen Mariens (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000916
@@ -455,6 +587,9 @@ SUMMARY:Hl. Kornelius, Papst (253), und hl. Cyprian, Bischof von Karthago, Märt
 URL:https://schott.erzabtei-beuron.de/proprium/September16.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000920
@@ -465,6 +600,9 @@ SUMMARY:Hl. Andreas Kim Tae-gŏn, Priester, und hl. Paul Chŏng Ha-sang und Gef�
 URL:https://schott.erzabtei-beuron.de/proprium/September20.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020923
@@ -475,6 +613,9 @@ SUMMARY:Hl. Pio da Pietrelcina (Padre Pio), Ordenspriester (1968) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September23.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000927
@@ -485,6 +626,9 @@ SUMMARY:Hl. Vinzenz von Paul, Priester, Ordensgründer (1660) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September27.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000930
@@ -495,6 +639,9 @@ SUMMARY:Hl. Hieronymus, Priester, Kirchenlehrer (420) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September30.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001001
@@ -505,6 +652,9 @@ SUMMARY:Hl. Theresia vom Kinde Jesus, Ordensfrau (1897) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober01.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001002
@@ -515,6 +665,9 @@ SUMMARY:Hll. Schutzengel (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001004
@@ -525,6 +678,9 @@ SUMMARY:Hl. Franz von Assisi, Ordensgründer (1226) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001007
@@ -535,6 +691,9 @@ SUMMARY:Unsere Liebe Frau vom Rosenkranz (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001015
@@ -545,6 +704,9 @@ SUMMARY:Hl. Theresa von Ávila, Ordensfrau, Kirchenlehrerin (1582) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober15.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001017
@@ -555,6 +717,9 @@ SUMMARY:Hl. Ignatius, Bischof von Antiochien, Märtyrer (um 115) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober17.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001104
@@ -565,6 +730,9 @@ SUMMARY:Hl. Karl Borromäus, Bischof von Mailand (1584) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November04.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001110
@@ -575,6 +743,9 @@ SUMMARY:Hl. Leo der Große, Papst, Kirchenlehrer (461) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November10.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001111
@@ -585,6 +756,9 @@ SUMMARY:Hl. Martin, Bischof von Tours (397) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November11.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001112
@@ -595,6 +769,9 @@ SUMMARY:Hl. Josaphat, Bischof von Polozk in Weißrussland, Märtyrer (1623) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November12.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001117
@@ -605,6 +782,9 @@ X-SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
 X-LOCATION:Generalkalender, Regionalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001121
@@ -615,6 +795,9 @@ SUMMARY:Gedenktag Unserer Lieben Frau in Jerusalem (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001122
@@ -625,6 +808,9 @@ SUMMARY:Hl. Cäcilia, Jungfrau, Märtyrin in Rom (um 250) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November22.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001124
@@ -635,6 +821,9 @@ SUMMARY:Hl. Andreas Dung-Lac, Priester, und Gefährten, Märtyrer in Vietnam (17
 URL:https://schott.erzabtei-beuron.de/proprium/November24.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001203
@@ -645,6 +834,9 @@ SUMMARY:Hl. Franz Xaver, Ordenspriester, Glaubensbote in Indien und Ostasien (15
 URL:https://schott.erzabtei-beuron.de/proprium/Dezember03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001207
@@ -655,6 +847,9 @@ SUMMARY:Hl. Ambrosius, Bischof von Mailand, Kirchenlehrer (397) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Dezember07.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19001213
@@ -665,6 +860,9 @@ X-SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
+X-TRANSP:TRANSPARENT
+X-CATEGORY:Gebotener Gedenktag
+X-PRIORITY:7
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001214
@@ -675,6 +873,9 @@ SUMMARY:Hl. Johannes vom Kreuz, Ordenspriester, Kirchenlehrer (1591) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Dezember14.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 
 BEGIN:VEVENT
@@ -685,6 +886,9 @@ SUMMARY:Maria, Mutter der Kirche (G)
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190610
@@ -695,6 +899,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-2
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200601
@@ -705,6 +912,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-3
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210524
@@ -715,6 +925,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-4
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220606
@@ -725,6 +938,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-5
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230529
@@ -735,6 +951,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-6
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240520
@@ -745,6 +964,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-7
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250609
@@ -755,6 +977,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-8
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
@@ -765,6 +990,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-9
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270517
@@ -775,6 +1003,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-10
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280605
@@ -785,6 +1016,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-11
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290521
@@ -795,6 +1029,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-12
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300610
@@ -805,6 +1042,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-13
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20310602
@@ -815,6 +1055,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-14
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20320517
@@ -825,6 +1068,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-15
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20330606
@@ -835,6 +1081,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-16
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20340529
@@ -845,6 +1094,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-17
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20350514
@@ -855,6 +1107,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-18
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20360602
@@ -865,6 +1120,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaMutterderKircheG-19
 RELATED-TO;RELTYPE=SIBLING:MariaMutterderKircheG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 
 BEGIN:VEVENT
@@ -875,6 +1133,9 @@ SUMMARY:Unbeflecktes Herz Mariä (G)
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19980620
@@ -885,6 +1146,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-2
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19990612
@@ -895,6 +1159,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-3
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20000701
@@ -905,6 +1172,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-4
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20010623
@@ -915,6 +1185,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-5
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20020608
@@ -925,6 +1198,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-6
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20030628
@@ -935,6 +1211,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-7
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20040619
@@ -945,6 +1224,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-8
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20050604
@@ -955,6 +1237,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-9
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20060624
@@ -965,6 +1250,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-10
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20070616
@@ -975,6 +1263,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-11
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20080531
@@ -985,6 +1276,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-12
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20090620
@@ -995,6 +1289,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-13
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20100612
@@ -1005,6 +1302,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-14
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20110702
@@ -1015,6 +1315,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-15
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20120616
@@ -1025,6 +1328,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-16
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130608
@@ -1035,6 +1341,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-17
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140628
@@ -1045,6 +1354,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-18
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150613
@@ -1055,6 +1367,9 @@ LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:UnbeflecktesHerzMariäG-19
 RELATED-TO;RELTYPE=SIBLING:UnbeflecktesHerzMariäG-1
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1066,6 +1381,9 @@ SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nIm Generalkalender am 17. November
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1077,6 +1395,9 @@ SUMMARY:Sel. Maria Theresia von Jesu Gerhardinger, Jungfrau, Ordensgründerin de
 X-URL:https://schott.erzabtei-beuron.de/proprium/Mai09.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000616
@@ -1087,6 +1408,9 @@ SUMMARY:Hl. Benno, Bischof von Meißen (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000716
@@ -1097,6 +1421,9 @@ SUMMARY:Sel. Irmengard, Äbtissin von Buchau und Frauenchiemsee (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Juli16.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000918
@@ -1107,6 +1434,9 @@ SUMMARY:Hl. Lantbert, Bischof von Freising (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000924
@@ -1117,6 +1447,9 @@ SUMMARY:Hl. Rupert und hl. Virgil, Bischöfe von Salzburg, Glaubensboten (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001016
@@ -1127,6 +1460,9 @@ SUMMARY:Hl. Hedwig von Andechs, Herzogin von Schlesien (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Oktober16_2.htm
 LOCATION:Diözesankalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001103
@@ -1137,5 +1473,8 @@ SUMMARY:Sel. Rupert Mayer, Priester (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
+TRANSP:TRANSPARENT
+CATEGORY:Gebotener Gedenktag
+PRIORITY:7
 END:VEVENT
 END:VCALENDAR
