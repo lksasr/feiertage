@@ -23,6 +23,7 @@ DTSTART;VALUE=DATE:19000125
 DTEND;VALUE=DATE:19000126
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=25;BYMONTH=1
 SUMMARY:Bekehrung des Hl. Apostels Paulus (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Januar25.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:BekehrungdesHlApostelsPaulus
@@ -35,6 +36,7 @@ DTSTART;VALUE=DATE:19000202
 DTEND;VALUE=DATE:19000203
 RRULE:FREQ=YEARLY;BYMONTHDAY=2;BYMONTH=2
 SUMMARY:Darstellung des Herrn (Mariä Lichtmess) (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar02.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:DarstellungDesHerrn
@@ -47,21 +49,10 @@ DTSTART;VALUE=DATE:19000214
 DTEND;VALUE=DATE:19000215
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=14;BYMONTH=2
 SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nGebotener Gedenktag im Generalkalender
 UID:HlCyrillHlMethodius
-TRANSP:TRANSPARENT
-CATEGORIES:Fest
-PRIORITY:6
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19000224
-DTEND;VALUE=DATE:19000225
-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=24;BYMONTH=2
-SUMMARY:Hl. Matthias, Apostel (F)
-LOCATION:Regionalkalender, Generalkalender
-DESCRIPTION:Liturgische Farbe: Rot\n\nIm Generalkalender am 14. Mai
-UID:HlMatthias
 TRANSP:TRANSPARENT
 CATEGORIES:Fest
 PRIORITY:6
@@ -71,9 +62,23 @@ DTSTART;VALUE=DATE:19000222
 DTEND;VALUE=DATE:19000223
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=22;BYMONTH=3
 SUMMARY:Kathedra Petri (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar22.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:KathedraPetri
+TRANSP:TRANSPARENT
+CATEGORIES:Fest
+PRIORITY:6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19000224
+DTEND;VALUE=DATE:19000225
+RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=24;BYMONTH=2
+SUMMARY:Hl. Matthias, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Februar24.htm
+LOCATION:Regionalkalender, Generalkalender
+DESCRIPTION:Liturgische Farbe: Rot\n\nIm Generalkalender am 14. Mai
+UID:HlMatthias
 TRANSP:TRANSPARENT
 CATEGORIES:Fest
 PRIORITY:6
@@ -95,6 +100,7 @@ DTSTART;VALUE=DATE:19000425
 DTEND;VALUE=DATE:19000426
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=25;BYMONTH=4
 SUMMARY:Hl. Markus, Evangelist (F)
+URL:https://schott.erzabtei-beuron.de/proprium/April25.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlMarkus
@@ -107,6 +113,7 @@ DTSTART;VALUE=DATE:19000429
 DTEND;VALUE=DATE:19000430
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=29;BYMONTH=4
 SUMMARY:Hl. Katharina von Siena, Ordensfrau, Kirchenlehrerin, Patronin Europas (F)
+URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nGebotener Gedenktag im Generalkalender
 UID:HlKatharina
@@ -119,6 +126,7 @@ DTSTART;VALUE=DATE:19000503
 DTEND;VALUE=DATE:19000504
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=3;BYMONTH=5
 SUMMARY:Hl. Philippus und hl. Jakobus der Jüngere, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Mai03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlPhilippusUndJakobus
@@ -131,6 +139,7 @@ DTSTART;VALUE=DATE:19000605
 DTEND;VALUE=DATE:19000606
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=5;BYMONTH=6
 SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märtyrer (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot\n\nGebotener Gedenktag im Generalkalender
 UID:HlBonifatius
@@ -143,6 +152,7 @@ DTSTART;VALUE=DATE:19000702
 DTEND;VALUE=DATE:19000703
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=2;BYMONTH=7
 SUMMARY:Mariä Heimsuchung (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli02.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nIm Generalkalender am 31. Mai
 UID:MariaeHeimsuchung
@@ -155,6 +165,7 @@ DTSTART;VALUE=DATE:19000703
 DTEND;VALUE=DATE:19000704
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=3;BYMONTH=7
 SUMMARY:Hl. Thomas, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli03.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlThomas
@@ -167,6 +178,7 @@ DTSTART;VALUE=DATE:19000711
 DTEND;VALUE=DATE:19000712
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=11;BYMONTH=7
 SUMMARY:Hl. Benedikt von Nursia, Vater des abendländischen Mönchtums, Patron Europas (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli11.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nGebotener Gedenktag im Generalkalender
 UID:HlBenediktNursia
@@ -179,6 +191,7 @@ DTSTART;VALUE=DATE:19000722
 DTEND;VALUE=DATE:19000723
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=22;BYMONTH=7
 SUMMARY:Hl. Maria Magdalena (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli22.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:HlMariaMagdalena
@@ -191,6 +204,7 @@ DTSTART;VALUE=DATE:19990723
 DTEND;VALUE=DATE:19990724
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=23;BYMONTH=7
 SUMMARY:Hl. Birgitta von Schweden, Ordensgründerin, Patronin Europas (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli23.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Generalkalender
 UID:HlBirgitta
@@ -203,6 +217,7 @@ DTSTART;VALUE=DATE:19000725
 DTEND;VALUE=DATE:19000726
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=25;BYMONTH=7
 SUMMARY:Hl. Jakobus der Ältere, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Juli25.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlJakobus
@@ -215,6 +230,7 @@ DTSTART;VALUE=DATE:19000806
 DTEND;VALUE=DATE:19000807
 RRULE:FREQ=YEARLY;BYMONTHDAY=6;BYMONTH=8
 SUMMARY:Verklärung des Herrn (F)
+URL:https://schott.erzabtei-beuron.de/proprium/August06.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:VerklaerungDesHerrn
@@ -227,6 +243,7 @@ DTSTART;VALUE=DATE:19000809
 DTEND;VALUE=DATE:19000810
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=9;BYMONTH=8
 SUMMARY:Hl. Theresia Benedicta vom Kreuz (Edith Stein), Jungfrau, Märtyrin, Schutzpatronin Europas (F)
+URL:https://schott.erzabtei-beuron.de/proprium/August09.htm
 LOCATION:Regionalkalender, Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot\n\nNichtgebotener Gedenktag im Generalkalender
 UID:HlTheresia
@@ -239,6 +256,7 @@ DTSTART;VALUE=DATE:19000810
 DTEND;VALUE=DATE:19000811
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=10;BYMONTH=8
 SUMMARY:Hl. Laurentius, Diakon, Märtyrer in Rom (F)
+URL:https://schott.erzabtei-beuron.de/proprium/August10.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlLaurentius
@@ -251,6 +269,7 @@ DTSTART;VALUE=DATE:19000824
 DTEND;VALUE=DATE:19000825
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=24;BYMONTH=8
 SUMMARY:Hl. Bartholomäus, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/August24.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlBartholomaeus
@@ -263,6 +282,7 @@ DTSTART;VALUE=DATE:19000908
 DTEND;VALUE=DATE:19000909
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=8;BYMONTH=9
 SUMMARY:Mariä Geburt (F)
+URL:https://schott.erzabtei-beuron.de/proprium/September08.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaeGeburt
@@ -275,6 +295,7 @@ DTSTART;VALUE=DATE:19000914
 DTEND;VALUE=DATE:19000915
 RRULE:FREQ=YEARLY;BYMONTHDAY=14;BYMONTH=9
 SUMMARY:Kreuzerhöhung (F)
+URL:https://schott.erzabtei-beuron.de/proprium/September14.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Kreuzerhoehung
@@ -287,6 +308,7 @@ DTSTART;VALUE=DATE:19000921
 DTEND;VALUE=DATE:19000922
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=21;BYMONTH=9
 SUMMARY:Hl. Matthäus, Apostel, Evangelist (F)
+URL:https://schott.erzabtei-beuron.de/proprium/September21.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlMatthaeus
@@ -299,6 +321,7 @@ DTSTART;VALUE=DATE:19000929
 DTEND;VALUE=DATE:19000930
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=29;BYMONTH=9
 SUMMARY:Hl. Michael, hl. Gabriel und hl. Rafael, Erzengel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/September29.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:HlMichaelHlGabrielHlRafael
@@ -311,6 +334,7 @@ DTSTART;VALUE=DATE:19001018
 DTEND;VALUE=DATE:19001019
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=18;BYMONTH=10
 SUMMARY:Hl. Lukas, Evangelist (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober18.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlLukas
@@ -323,6 +347,7 @@ DTSTART;VALUE=DATE:19001028
 DTEND;VALUE=DATE:19001029
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=28;BYMONTH=10
 SUMMARY:Hl. Simon und hl. Judas Thaddäus (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Oktober28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlSimonHlJudasThaddaeus
@@ -335,6 +360,7 @@ DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001110
 RRULE:FREQ=YEARLY;BYMONTHDAY=9;BYMONTH=11
 SUMMARY:Weihetag der Lateranbasilika (F)
+URL:https://schott.erzabtei-beuron.de/proprium/November09.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:WeihetagDerLateranbasilika
@@ -347,6 +373,7 @@ DTSTART;VALUE=DATE:19001130
 DTEND;VALUE=DATE:19001201
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=30;BYMONTH=11
 SUMMARY:Hl. Andreas, Apostel (F)
+URL:https://schott.erzabtei-beuron.de/proprium/November30.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlAndreas
@@ -359,6 +386,7 @@ DTSTART;VALUE=DATE:19001226
 DTEND;VALUE=DATE:19001227
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=26;BYMONTH=12
 SUMMARY:Hl. Stephanus\, erster Märtyrer (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember26.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HlStephanus
@@ -371,6 +399,7 @@ DTSTART;VALUE=DATE:19001227
 DTEND;VALUE=DATE:19001228
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=27;BYMONTH=12
 SUMMARY:Hl. Johannes\, Apostel und Evangelist (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember27.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:HlJohannes
@@ -383,6 +412,7 @@ DTSTART;VALUE=DATE:19001228
 DTEND;VALUE=DATE:19001229
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=28;BYMONTH=12
 SUMMARY:Hll. unschuldige Kinder von Betlehem (F)
+URL:https://schott.erzabtei-beuron.de/proprium/Dezember28.htm
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 UID:HllUnschuldigeKinder
