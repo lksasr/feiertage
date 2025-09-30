@@ -13,6 +13,9 @@ SUMMARY:1. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV1
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001209
@@ -22,6 +25,9 @@ SUMMARY:2. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV2
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001216
@@ -31,6 +37,9 @@ SUMMARY:3. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV3
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19051224
@@ -40,6 +49,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.1
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001223
@@ -49,6 +61,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.2
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19011222
@@ -58,6 +73,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.3
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19021221
@@ -67,6 +85,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.4
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19031220
@@ -76,6 +97,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.5
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19091219
@@ -85,6 +109,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.6
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19041218
@@ -94,6 +121,9 @@ SUMMARY:4. Adventswoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.7
+TRANSP:TRANSPARENT
+CATEGORIES:Adventszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -104,6 +134,9 @@ SUMMARY:Weihnachtsoktav
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:Weihnachtsoktav
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010102
@@ -113,6 +146,9 @@ SUMMARY:Weihnachtszeit
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:Weihnachtszeit
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19730106
@@ -122,6 +158,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn1
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19780106
@@ -131,6 +170,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn2
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19720106
@@ -140,6 +182,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn3
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19710106
@@ -149,6 +194,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn4
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700106
@@ -158,6 +206,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn5
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19750106
@@ -167,6 +218,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn6
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19740106
@@ -176,6 +230,9 @@ SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn7
+TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -186,6 +243,9 @@ SUMMARY:1. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK01
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700118
@@ -195,6 +255,9 @@ SUMMARY:2. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK02
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700125
@@ -204,6 +267,9 @@ SUMMARY:3. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK03
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700201
@@ -213,6 +279,9 @@ SUMMARY:4. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK04
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700208
@@ -223,6 +292,9 @@ SUMMARY:5. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK05
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700215
@@ -233,6 +305,9 @@ SUMMARY:6. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK06
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700222
@@ -243,6 +318,9 @@ SUMMARY:7. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK07
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700301
@@ -253,6 +331,9 @@ SUMMARY:8. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK08
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19710307
@@ -263,6 +344,9 @@ SUMMARY:9. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK09
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -274,6 +358,9 @@ SUMMARY:6. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK06_late
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700517
@@ -284,6 +371,9 @@ SUMMARY:7. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK07_late
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700524
@@ -294,6 +384,9 @@ SUMMARY:8. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK08_late
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700531
@@ -304,6 +397,9 @@ SUMMARY:9. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK09_late
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700607
@@ -314,6 +410,9 @@ SUMMARY:10. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK10
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700614
@@ -323,6 +422,9 @@ SUMMARY:11. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK11
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700621
@@ -332,6 +434,9 @@ SUMMARY:12. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK12
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700628
@@ -341,6 +446,9 @@ SUMMARY:13. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK13
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700705
@@ -350,6 +458,9 @@ SUMMARY:14. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK14
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700712
@@ -359,6 +470,9 @@ SUMMARY:15. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK15
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700719
@@ -368,6 +482,9 @@ SUMMARY:16. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK16
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700726
@@ -377,6 +494,9 @@ SUMMARY:17. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK17
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700802
@@ -386,6 +506,9 @@ SUMMARY:18. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK18
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700809
@@ -395,6 +518,9 @@ SUMMARY:19. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK19
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700816
@@ -404,6 +530,9 @@ SUMMARY:20. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK20
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700823
@@ -413,6 +542,9 @@ SUMMARY:21. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK21
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700830
@@ -422,6 +554,9 @@ SUMMARY:22. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK22
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700906
@@ -431,6 +566,9 @@ SUMMARY:23. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK23
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700913
@@ -440,6 +578,9 @@ SUMMARY:24. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK24
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700920
@@ -449,6 +590,9 @@ SUMMARY:25. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK25
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19700927
@@ -458,6 +602,9 @@ SUMMARY:26. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK26
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701004
@@ -467,6 +614,9 @@ SUMMARY:27. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK27
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701011
@@ -476,6 +626,9 @@ SUMMARY:28. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK28
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701018
@@ -485,6 +638,9 @@ SUMMARY:29. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK29
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701025
@@ -494,6 +650,9 @@ SUMMARY:30. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK30
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701101
@@ -503,6 +662,9 @@ SUMMARY:31. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK31
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701108
@@ -512,6 +674,9 @@ SUMMARY:32. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK32
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701115
@@ -521,6 +686,9 @@ SUMMARY:33. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK33
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19701122
@@ -530,6 +698,9 @@ SUMMARY:34. Woche im Jahreskreis
 DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK34
+TRANSP:TRANSPARENT
+CATEGORIES:Zeit im Jahreskreis
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -540,6 +711,9 @@ SUMMARY:Tage nach Aschermittwoch
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010220
@@ -550,6 +724,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-2
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020212
@@ -560,6 +737,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-3
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030225
@@ -570,6 +750,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-4
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040217
@@ -580,6 +763,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-5
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050308
@@ -590,6 +776,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-6
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060228
@@ -600,6 +789,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-7
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070213
@@ -610,6 +802,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-8
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080304
@@ -620,6 +815,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-9
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090224
@@ -630,6 +828,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-10
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100209
@@ -640,6 +841,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-11
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110301
@@ -650,6 +854,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-12
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120221
@@ -660,6 +867,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-13
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130205
@@ -670,6 +880,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-14
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140225
@@ -680,6 +893,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-15
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150217
@@ -690,6 +906,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-16
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160308
@@ -700,6 +919,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-17
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170221
@@ -710,6 +932,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-18
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180213
@@ -720,6 +945,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-19
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -730,6 +958,9 @@ SUMMARY:1. Fastenwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010224
@@ -740,6 +971,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020216
@@ -750,6 +984,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030301
@@ -760,6 +997,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040221
@@ -770,6 +1010,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050312
@@ -780,6 +1023,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060304
@@ -790,6 +1036,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070217
@@ -800,6 +1049,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080308
@@ -810,6 +1062,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090228
@@ -820,6 +1075,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100213
@@ -830,6 +1088,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110305
@@ -840,6 +1101,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120225
@@ -850,6 +1114,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130209
@@ -860,6 +1127,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140301
@@ -870,6 +1140,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150221
@@ -880,6 +1153,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160312
@@ -890,6 +1166,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170225
@@ -900,6 +1179,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180217
@@ -910,6 +1192,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -920,6 +1205,9 @@ SUMMARY:2. Fastenwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010303
@@ -930,6 +1218,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020223
@@ -940,6 +1231,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030308
@@ -950,6 +1244,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040228
@@ -960,6 +1257,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050319
@@ -970,6 +1270,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060311
@@ -980,6 +1283,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070224
@@ -990,6 +1296,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080315
@@ -1000,6 +1309,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090307
@@ -1010,6 +1322,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100220
@@ -1020,6 +1335,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110312
@@ -1030,6 +1348,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120303
@@ -1040,6 +1361,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130216
@@ -1050,6 +1374,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140308
@@ -1060,6 +1387,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150228
@@ -1070,6 +1400,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160319
@@ -1080,6 +1413,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170304
@@ -1090,6 +1426,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180224
@@ -1100,6 +1439,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:2Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:2Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1110,6 +1452,9 @@ SUMMARY:3. Fastenwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010310
@@ -1120,6 +1465,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020302
@@ -1130,6 +1478,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030315
@@ -1140,6 +1491,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040306
@@ -1150,6 +1504,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050326
@@ -1160,6 +1517,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060318
@@ -1170,6 +1530,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070303
@@ -1180,6 +1543,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080322
@@ -1190,6 +1556,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090314
@@ -1200,6 +1569,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100227
@@ -1210,6 +1582,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110319
@@ -1220,6 +1595,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120310
@@ -1230,6 +1608,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130223
@@ -1240,6 +1621,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140315
@@ -1250,6 +1634,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150307
@@ -1260,6 +1647,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160326
@@ -1270,6 +1660,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170311
@@ -1280,6 +1673,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180303
@@ -1290,6 +1686,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:3Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:3Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1300,6 +1699,9 @@ SUMMARY:4. Fastenwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010317
@@ -1310,6 +1712,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020309
@@ -1320,6 +1725,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030322
@@ -1330,6 +1738,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040313
@@ -1340,6 +1751,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050402
@@ -1350,6 +1764,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060325
@@ -1360,6 +1777,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070310
@@ -1370,6 +1790,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080329
@@ -1380,6 +1803,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090321
@@ -1390,6 +1816,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100306
@@ -1400,6 +1829,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110326
@@ -1410,6 +1842,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120317
@@ -1420,6 +1855,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130302
@@ -1430,6 +1868,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140322
@@ -1440,6 +1881,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150314
@@ -1450,6 +1894,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160402
@@ -1460,6 +1907,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170318
@@ -1470,6 +1920,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180310
@@ -1480,6 +1933,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:4Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:4Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1490,6 +1946,9 @@ SUMMARY:5. Fastenwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010324
@@ -1500,6 +1959,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020316
@@ -1510,6 +1972,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030329
@@ -1520,6 +1985,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040320
@@ -1530,6 +1998,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050409
@@ -1540,6 +2011,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060401
@@ -1550,6 +2024,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070317
@@ -1560,6 +2037,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080405
@@ -1570,6 +2050,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090328
@@ -1580,6 +2063,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100313
@@ -1590,6 +2076,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110402
@@ -1600,6 +2089,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120324
@@ -1610,6 +2102,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130309
@@ -1620,6 +2115,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140329
@@ -1630,6 +2128,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150321
@@ -1640,6 +2141,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160409
@@ -1650,6 +2154,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170325
@@ -1660,6 +2167,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180317
@@ -1670,6 +2180,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:5Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:5Fastenwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1680,6 +2193,9 @@ SUMMARY:Karwoche
 DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010331
@@ -1690,6 +2206,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-2
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020323
@@ -1700,6 +2219,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-3
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030405
@@ -1710,6 +2232,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-4
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040327
@@ -1720,6 +2245,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-5
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050416
@@ -1730,6 +2258,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-6
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060408
@@ -1740,6 +2271,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-7
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070324
@@ -1750,6 +2284,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-8
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080412
@@ -1760,6 +2297,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-9
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090404
@@ -1770,6 +2310,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-10
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100320
@@ -1780,6 +2323,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-11
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110409
@@ -1790,6 +2336,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-12
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120331
@@ -1800,6 +2349,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-13
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130316
@@ -1810,6 +2362,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-14
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140405
@@ -1820,6 +2375,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-15
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150328
@@ -1830,6 +2388,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-16
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160416
@@ -1840,6 +2401,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-17
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170401
@@ -1850,6 +2414,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-18
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180324
@@ -1860,6 +2427,9 @@ DESCRIPTION:Liturgische Farbe: Violett
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:Karwoche-19
 RELATED-TO;RELTYPE=SIBLING:Karwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Fastenzeit,Passionszeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1870,6 +2440,9 @@ SUMMARY:Osteroktav
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010407
@@ -1880,6 +2453,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-2
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020330
@@ -1890,6 +2466,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-3
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030412
@@ -1900,6 +2479,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-4
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040403
@@ -1910,6 +2492,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-5
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050423
@@ -1920,6 +2505,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-6
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060415
@@ -1930,6 +2518,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-7
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070331
@@ -1940,6 +2531,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-8
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080419
@@ -1950,6 +2544,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-9
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090411
@@ -1960,6 +2557,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-10
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100327
@@ -1970,6 +2570,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-11
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110416
@@ -1980,6 +2583,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-12
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120407
@@ -1990,6 +2596,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-13
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130323
@@ -2000,6 +2609,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-14
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140412
@@ -2010,6 +2622,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-15
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150404
@@ -2020,6 +2635,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-16
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160423
@@ -2030,6 +2648,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-17
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170408
@@ -2040,6 +2661,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-18
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180331
@@ -2050,6 +2674,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:Osteroktav-19
 RELATED-TO;RELTYPE=SIBLING:Osteroktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2060,6 +2687,9 @@ SUMMARY:2. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010414
@@ -2070,6 +2700,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020406
@@ -2080,6 +2713,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030419
@@ -2090,6 +2726,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040410
@@ -2100,6 +2739,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050430
@@ -2110,6 +2752,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060422
@@ -2120,6 +2765,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070407
@@ -2130,6 +2778,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080426
@@ -2140,6 +2791,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090418
@@ -2150,6 +2804,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100403
@@ -2160,6 +2817,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110423
@@ -2170,6 +2830,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120414
@@ -2180,6 +2843,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130330
@@ -2190,6 +2856,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140419
@@ -2200,6 +2869,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150411
@@ -2210,6 +2882,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160430
@@ -2220,6 +2895,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170415
@@ -2230,6 +2908,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180407
@@ -2240,6 +2921,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:2Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:2Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2250,6 +2934,9 @@ SUMMARY:3. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010421
@@ -2260,6 +2947,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020413
@@ -2270,6 +2960,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030426
@@ -2280,6 +2973,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040417
@@ -2290,6 +2986,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050507
@@ -2300,6 +2999,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060429
@@ -2310,6 +3012,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070414
@@ -2320,6 +3025,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080503
@@ -2330,6 +3038,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090425
@@ -2340,6 +3051,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100410
@@ -2350,6 +3064,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110430
@@ -2360,6 +3077,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120421
@@ -2370,6 +3090,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130406
@@ -2380,6 +3103,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140426
@@ -2390,6 +3116,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150418
@@ -2400,6 +3129,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160507
@@ -2410,6 +3142,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170422
@@ -2420,6 +3155,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180414
@@ -2430,6 +3168,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:3Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:3Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2440,6 +3181,9 @@ SUMMARY:4. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010428
@@ -2450,6 +3194,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020420
@@ -2460,6 +3207,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030503
@@ -2470,6 +3220,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040424
@@ -2480,6 +3233,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050514
@@ -2490,6 +3246,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060506
@@ -2500,6 +3259,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070421
@@ -2510,6 +3272,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080510
@@ -2520,6 +3285,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090502
@@ -2530,6 +3298,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100417
@@ -2540,6 +3311,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110507
@@ -2550,6 +3324,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120428
@@ -2560,6 +3337,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130413
@@ -2570,6 +3350,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140503
@@ -2580,6 +3363,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150425
@@ -2590,6 +3376,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160514
@@ -2600,6 +3389,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170429
@@ -2610,6 +3402,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180421
@@ -2620,6 +3415,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:4Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:4Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2630,6 +3428,9 @@ SUMMARY:5. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010505
@@ -2640,6 +3441,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020427
@@ -2650,6 +3454,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030510
@@ -2660,6 +3467,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040501
@@ -2670,6 +3480,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050521
@@ -2680,6 +3493,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060513
@@ -2690,6 +3506,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070428
@@ -2700,6 +3519,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080517
@@ -2710,6 +3532,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090509
@@ -2720,6 +3545,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100424
@@ -2730,6 +3558,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110514
@@ -2740,6 +3571,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120505
@@ -2750,6 +3584,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130420
@@ -2760,6 +3597,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140510
@@ -2770,6 +3610,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150502
@@ -2780,6 +3623,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160521
@@ -2790,6 +3636,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170506
@@ -2800,6 +3649,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180428
@@ -2810,6 +3662,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:5Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:5Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2820,6 +3675,9 @@ SUMMARY:6. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010512
@@ -2830,6 +3688,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020504
@@ -2840,6 +3701,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030517
@@ -2850,6 +3714,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040508
@@ -2860,6 +3727,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050528
@@ -2870,6 +3740,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060520
@@ -2880,6 +3753,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070505
@@ -2890,6 +3766,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080524
@@ -2900,6 +3779,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090516
@@ -2910,6 +3792,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100501
@@ -2920,6 +3805,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110521
@@ -2930,6 +3818,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120512
@@ -2940,6 +3831,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130427
@@ -2950,6 +3844,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140517
@@ -2960,6 +3857,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150509
@@ -2970,6 +3870,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160528
@@ -2980,6 +3883,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170513
@@ -2990,6 +3896,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180505
@@ -3000,6 +3909,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:6Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:6Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3010,6 +3922,9 @@ SUMMARY:7. Osterwoche
 DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010519
@@ -3020,6 +3935,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-2
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020511
@@ -3030,6 +3948,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-3
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030524
@@ -3040,6 +3961,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-4
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040515
@@ -3050,6 +3974,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-5
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050604
@@ -3060,6 +3987,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-6
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060527
@@ -3070,6 +4000,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-7
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070512
@@ -3080,6 +4013,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-8
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080531
@@ -3090,6 +4026,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-9
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090523
@@ -3100,6 +4039,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-10
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100508
@@ -3110,6 +4052,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-11
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110528
@@ -3120,6 +4065,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-12
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120519
@@ -3130,6 +4078,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-13
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130504
@@ -3140,6 +4091,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-14
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140524
@@ -3150,6 +4104,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-15
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150516
@@ -3160,6 +4117,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-16
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160604
@@ -3170,6 +4130,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-17
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170520
@@ -3180,6 +4143,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-18
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180512
@@ -3190,6 +4156,9 @@ DESCRIPTION:Liturgische Farbe: Weiß
 URL:https://schott.erzabtei-beuron.de/register/osterzeit/index.html
 UID:7Osterwoche-19
 RELATED-TO;RELTYPE=SIBLING:7Osterwoche-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:9
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3199,6 +4168,9 @@ RRULE:FREQ=YEARLY;UNTIL=19691231;INTERVAL=19;BYDAY=SU;BYMONTH=6;BYMONTHDAY=3,4,5
 SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19010526
@@ -3208,6 +4180,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-2
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19020518
@@ -3217,6 +4192,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-3
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19030531
@@ -3226,6 +4204,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-4
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19040522
@@ -3235,6 +4216,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-5
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19050611
@@ -3244,6 +4228,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-6
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19060603
@@ -3253,6 +4240,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-7
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19070519
@@ -3262,6 +4252,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-8
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19080607
@@ -3271,6 +4264,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-9
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19090530
@@ -3280,6 +4276,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-10
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19100515
@@ -3289,6 +4288,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-11
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19110604
@@ -3298,6 +4300,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-12
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19120526
@@ -3307,6 +4312,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-13
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19130511
@@ -3316,6 +4324,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-14
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19140531
@@ -3325,6 +4336,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-15
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19150523
@@ -3334,6 +4348,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-16
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19160611
@@ -3343,6 +4360,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-17
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19170527
@@ -3352,6 +4372,9 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-18
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19180519
@@ -3361,5 +4384,8 @@ SUMMARY:Pfingstoktav
 DESCRIPTION:Liturgische Farbe: Rot
 UID:Pfingstoktav-19
 RELATED-TO;RELTYPE=SIBLING:Pfingstoktav-1
+TRANSP:TRANSPARENT
+CATEGORIES:Osterzeit
+PRIORITY:1
 END:VEVENT
 END:VCALENDAR
