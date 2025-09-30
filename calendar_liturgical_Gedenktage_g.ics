@@ -1857,16 +1857,16 @@ URL:https://schott.erzabtei-beuron.de/proprium/November03_1.htm
 LOCATION:Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20041103
-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
-DTSTAMP:19001231T000000Z
-UID:SelRupertMayer
-SUMMARY:Sel. Rupert Mayer, Ordenspriester (1945) (g)
-X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
-LOCATION:Regionalkalender
-DESCRIPTION:Liturgische Farbe: Weiß
-END:VEVENT
+X-BEGIN:VEVENT
+X-DTSTART;VALUE=DATE:20041103
+X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
+X-DTSTAMP:19001231T000000Z
+X-UID:SelRupertMayer
+X-SUMMARY:Sel. Rupert Mayer, Ordenspriester (1945) (g)
+X-X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
+X-LOCATION:Regionalkalender
+X-DESCRIPTION:Liturgische Farbe: Weiß
+X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001103
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=3
