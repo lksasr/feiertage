@@ -31,7 +31,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlAgnes
 X-SUMMARY:Hl. Agnes, Jungfrau, Märtyrin in Rom (304) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Januar21_1.htm
-X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
+X-LOCATION:Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Rot
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000124
@@ -103,7 +104,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlCyrill
 X-SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
-X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
+X-LOCATION:Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Weiß
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000223
@@ -148,7 +150,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlKatharinavonSiena
 X-SUMMARY:Hl. Katharina von Siena, Ordensfrau, Kirchenlehrerin, Patronin Europas (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/April29.htm
-X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender
+X-LOCATION:Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Weiß
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000502
@@ -193,7 +196,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlBonifatius
 X-SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märtyrer (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
-X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
+X-LOCATION:Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Rot
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000611
@@ -544,7 +548,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlElisabeth
 X-SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
-X-DESCRIPTION:Liturgische Farbe: Weiß\nGeneralkalender, Regionalkalender
+X-LOCATION:Generalkalender, Regionalkalender
+X-DESCRIPTION:Liturgische Farbe: Weiß
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001121
@@ -598,7 +603,8 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlLuzia
 X-SUMMARY:Hl. Luzia, Jungfrau, Märtyrin in Syrakus (um 304) (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Dezember13.htm
-X-DESCRIPTION:Liturgische Farbe: Rot\nGeneralkalender
+X-LOCATION:Generalkalender
+X-DESCRIPTION:Liturgische Farbe: Rot
 X-END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001214
