@@ -24,6 +24,7 @@ DTEND;VALUE=DATE:19000126
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=25;BYMONTH=1
 SUMMARY:Bekehrung des Hl. Apostels Paulus (F)
 URL:https://schott.erzabtei-beuron.de/proprium/Januar25.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53910320.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:BekehrungdesHlApostelsPaulus
