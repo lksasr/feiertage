@@ -39,6 +39,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=19;BYMONTH=3
 RRULE:FREQ=YEARLY;BYDAY=MO;BYMONTHDAY=20;BYMONTH=3
 SUMMARY:Hl. Josef\, Bräutigam der Gottesmutter Maria\, Patron der Kirche (H)
 URL:https://schott.erzabtei-beuron.de/proprium/Maerz19.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53911020.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:HlJosef
@@ -53,6 +54,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=25;BYMONTH=3
 RRULE:FREQ=YEARLY;BYDAY=MO;BYMONTHDAY=26;BYMONTH=3
 SUMMARY:Verkündigung des Herrn (H)
 URL:https://schott.erzabtei-beuron.de/proprium/Maerz25.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53911120.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:VerkuendigungDesHerrn
@@ -63,6 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:MariaBayern
 SUMMARY:Hl. Maria, Patronin des Landes Bayern (H)
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53924620.pdf
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 DTSTART;VALUE=DATE:19000501
@@ -76,6 +79,7 @@ BEGIN:VEVENT
 UID:HlJohannes
 SUMMARY:Geburt des Hl. Johannes des Täufers (H)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni24.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53952920.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 DTSTART;VALUE=DATE:19000624
@@ -89,6 +93,7 @@ BEGIN:VEVENT
 UID:HlPetrusUndHlPaulus
 SUMMARY:Hl. Petrus und hl. Paulus, Apostel (H)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni29.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53953120.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 DTSTART;VALUE=DATE:19000629
@@ -102,6 +107,7 @@ BEGIN:VEVENT
 UID:MariaeHimmelfahrt
 SUMMARY:Mariä Aufnahme in den Himmel (H)
 URL:https://schott.erzabtei-beuron.de/proprium/August15.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53954220.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 DTSTART;VALUE=DATE:19000815
@@ -114,6 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Kirchweih
 SUMMARY:Weihetag der eigenen Kirche (H)
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-54318620.pdf
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 DTSTART;VALUE=DATE:19001021
@@ -127,6 +134,7 @@ BEGIN:VEVENT
 UID:Allerheiligen
 SUMMARY:Allerheiligen (H)
 URL:https://schott.erzabtei-beuron.de/proprium/November01.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53956420.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 DTSTART;VALUE=DATE:19001101
@@ -140,6 +148,7 @@ BEGIN:VEVENT
 UID:Allerseelen
 SUMMARY:Allerseelen
 URL:https://schott.erzabtei-beuron.de/proprium/November02.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53956520.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Schwarz (Violett)
 DTSTART;VALUE=DATE:19001102
@@ -155,6 +164,7 @@ DTEND;VALUE=DATE:19001121
 RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=20;BYMONTH=11
 RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=SA;BYMONTHDAY=19;BYMONTH=11
 SUMMARY:Hl. Korbinian\, Bischof in Freising\, Glaubensbote\, Hauptpatron der Erzdiözese München und Freising (H)
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53957120.pdf
 UID:HlKorbinian
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
@@ -181,6 +191,7 @@ RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTHDAY=8;BYMONTH=12
 RRULE:FREQ=YEARLY;BYDAY=MO;BYMONTHDAY=9;BYMONTH=12
 SUMMARY:Hochfest der ohne Erbsünde empfangenen Jungfrau und Gottesmutter Maria
 URL:https://schott.erzabtei-beuron.de/proprium/Dezember08.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53957420.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 UID:MariaUnbeflecktesEmpfaengnis
