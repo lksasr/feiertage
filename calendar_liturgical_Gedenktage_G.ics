@@ -143,6 +143,7 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlCyrill
 X-SUMMARY:Hl. Cyrill (Konstantin), Mönch, und hl. Methodius, Bischof, Glaubensboten bei den Slaven, Patrone Europas (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Februar14.htm
+X-ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53910520.pdf
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
@@ -273,6 +274,7 @@ X-DTSTAMP:19001231T000000Z
 X-UID:HlBonifatius
 X-SUMMARY:Hl. Bonifatius, Bischof von Mainz, Glaubensbote in Deutschland, Märtyrer (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Juni05.htm
+X-ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53948320.pdf
 X-LOCATION:Generalkalender
 X-DESCRIPTION:Liturgische Farbe: Rot
 X-TRANSP:TRANSPARENT
@@ -335,11 +337,12 @@ X-BEGIN:VEVENT
 X-DTSTART;VALUE=DATE:19000711
 X-RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=11
 X-DTSTAMP:19001231T000000Z
-UID:HlBenediktvonNursia
-SUMMARY:Hl. Benedikt von Nursia, Vater des abendländischen Mönchtums, Patron Europas (G)
-URL:https://schott.erzabtei-beuron.de/proprium/Juli11.htm
+X-UID:HlBenediktvonNursia
+X-SUMMARY:Hl. Benedikt von Nursia, Vater des abendländischen Mönchtums, Patron Europas (G)
+X-URL:https://schott.erzabtei-beuron.de/proprium/Juli11.htm
+X-ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-54033920.pdf
 X-LOCATION:Generalkalender
-DESCRIPTION:Liturgische Farbe: Weiß
+X-DESCRIPTION:Liturgische Farbe: Weiß
 X-TRANSP:TRANSPARENT
 X-CATEGORIES:Gebotener Gedenktag
 X-PRIORITY:7
@@ -364,6 +367,7 @@ DTSTAMP:19001231T000000Z
 UID:HlJoachimundhlAnna
 SUMMARY:Hl. Joachim und hl. Anna, Eltern der Gottesmutter Maria (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli26.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-54034220.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
@@ -572,6 +576,7 @@ DTSTAMP:19001231T000000Z
 UID:GedächtnisderSchmerzenMariens
 SUMMARY:Gedächtnis der Schmerzen Mariens (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September15.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53955120.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
@@ -754,6 +759,7 @@ DTSTAMP:19001231T000000Z
 UID:HlMartin
 SUMMARY:Hl. Martin, Bischof von Tours (397) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November11.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53956820.pdf
 LOCATION:Generalkalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
@@ -806,6 +812,7 @@ DTSTAMP:19001231T000000Z
 UID:HlCäcilia
 SUMMARY:Hl. Cäcilia, Jungfrau, Märtyrin in Rom (um 250) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November22.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53957220.pdf
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Rot
 TRANSP:TRANSPARENT
@@ -1379,6 +1386,7 @@ DTSTAMP:19001231T000000Z
 UID:HlElisabeth
 SUMMARY:Hl. Elisabeth, Landgräfin von Thüringen (1231) (G)
 URL:https://schott.erzabtei-beuron.de/proprium/November19.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53957020.pdf
 LOCATION:Generalkalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nIm Generalkalender am 17. November
 TRANSP:TRANSPARENT
@@ -1393,6 +1401,7 @@ DTSTAMP:19001231T000000Z
 UID:SelMariaTheresiavonJesuGerhardinger
 SUMMARY:Sel. Maria Theresia von Jesu Gerhardinger, Jungfrau, Ordensgründerin der Armen Schulschwestern v. U. lb. Frau. (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/Mai09.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53925020.pdf
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
@@ -1406,6 +1415,7 @@ DTSTAMP:19001231T000000Z
 UID:HlBenno
 SUMMARY:Hl. Benno, Bischof von Meißen (G)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni16.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53952820.pdf
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
@@ -1432,6 +1442,7 @@ DTSTAMP:19001231T000000Z
 UID:HlLantbert
 SUMMARY:Hl. Lantbert, Bischof von Freising (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/September18.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53955220.pdf
 LOCATION:Diözesankalender
 DESCRIPTION:Liturgische Farbe: Weiß
 TRANSP:TRANSPARENT
@@ -1445,6 +1456,7 @@ DTSTAMP:19001231T000000Z
 UID:HlRupertundhlVirgil
 SUMMARY:Hl. Rupert und hl. Virgil, Bischöfe von Salzburg, Glaubensboten (G)
 URL:https://schott.erzabtei-beuron.de/proprium/September24.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53955420.pdf
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
@@ -1471,6 +1483,7 @@ DTSTAMP:19001231T000000Z
 UID:SelRupertMayer
 SUMMARY:Sel. Rupert Mayer, Priester (G)
 X-URL:https://schott.erzabtei-beuron.de/proprium/November03.htm
+ATTACH;FMTTYPE=application/pdf;VALUE=URI;X-APPLE-FILENAME=Münchener Kantorale.pdf:https://www.erzbistum-muenchen.de/cms-media/media-53956620.pdf
 LOCATION:Diözesankalender, Regionalkalender
 DESCRIPTION:Liturgische Farbe: Weiß\n\nNichtgebotener Gedenktag im Regionalkalender
 TRANSP:TRANSPARENT
