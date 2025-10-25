@@ -949,7 +949,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20030812
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=12
 DTSTAMP:19001231T000000Z
-UID:HlJohannaFranziskavonChantal
+UID:HlJohannaFranziskavonChantal_2
 SUMMARY:Hl. Johanna Franziska von Chantal, Ordensgründerin (1641) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/August12.htm
 LOCATION:Generalkalender
