@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19001116
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=11;BYMONTHDAY=16
 DTSTAMP:19001231T000000Z
-UID:HlMargareta
+UID:HlMargareta_Schottland
 SUMMARY:Hl. Margareta, Königin von Schottland (1039) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/November16.htm
 LOCATION:Generalkalender
@@ -2221,7 +2221,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000720
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=7;BYMONTHDAY=20
 DTSTAMP:19001231T000000Z
-UID:HlMargareta
+UID:HlMargareta_Antiochien
 SUMMARY:Hl. Margareta, Jungfrau, Märtyrin in Antiochien (g)
 URL:https://schott.erzabtei-beuron.de/proprium/Juli20.htm
 LOCATION:Regionalkalender
