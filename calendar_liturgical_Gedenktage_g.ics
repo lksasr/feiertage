@@ -1093,7 +1093,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190917
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=9;BYMONTHDAY=17
 DTSTAMP:19001231T000000Z
-UID:HlHildegardvonBingen
+UID:HlHildegardvonBingen_2
 SUMMARY:Hl. Hildegard von Bingen, Äbtissin, Mystikerin, Gründerin von Rupertsberg und Eibingen (1179) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/September17_1.htm
 LOCATION:Generalkalender, Regionalkalender
