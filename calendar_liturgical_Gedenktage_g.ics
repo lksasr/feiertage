@@ -663,7 +663,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=22
 DTSTAMP:19001231T000000Z
-UID:HlPaulinus
+UID:HlPaulinus_Nola
 SUMMARY:Hl. Paulinus, Bischof von Nola (431) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni22.htm
 LOCATION:Generalkalender
@@ -2273,7 +2273,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000831
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=8;BYMONTHDAY=31
 DTSTAMP:19001231T000000Z
-UID:HlPaulinus
+UID:HlPaulinus_Trier
 SUMMARY:Hl. Paulinus, Bischof von Trier, Märtyrer (358) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/August31.htm
 LOCATION:Regionalkalender
