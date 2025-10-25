@@ -258,7 +258,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000318
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=3;BYMONTHDAY=18
 DTSTAMP:19001231T000000Z
-UID:HlCyrill
+UID:HlCyrill_Jerusalem
 SUMMARY:Hl. Cyrill, Bischof von Jerusalem, Kirchenlehrer (386) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/Maerz18.htm
 LOCATION:Generalkalender
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:19000627
 RRULE:FREQ=YEARLY;BYDAY=MO,TU,WE,TH,FR,SA;BYMONTH=6;BYMONTHDAY=27
 DTSTAMP:19001231T000000Z
-UID:HlCyrill
+UID:HlCyrill_Alexandrien
 SUMMARY:Hl. Cyrill, Bischof von Alexandrien, Kirchenlehrer (444) (g)
 URL:https://schott.erzabtei-beuron.de/proprium/Juni27_2.htm
 LOCATION:Generalkalender
