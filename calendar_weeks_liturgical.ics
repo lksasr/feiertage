@@ -10,7 +10,13 @@ DTSTART;VALUE=DATE:19001202
 DTEND;VALUE=DATE:19001209
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=1,2,3,4,5,6,7,27,28,29,30;BYMONTH=11,12;BYSETPOS=2
 SUMMARY:1. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n: vom Advent I-IV.\n• Te Deum\, Gloria und Credo werden nur dann gespro
+ chen /gesungen\, wenn sie an den einzelnen Tagen angegeben sind.\n• 1. A
+ dventswoche. Vierwochenpsalter: 1. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV1
 TRANSP:TRANSPARENT
@@ -22,7 +28,13 @@ DTSTART;VALUE=DATE:19001209
 DTEND;VALUE=DATE:19001216
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=4,5,6,7,8,9,10;BYMONTH=12
 SUMMARY:2. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n: vom Advent I-IV.\n• Te Deum\, Gloria und Credo werden nur dann gespro
+ chen /gesungen\, wenn sie an den einzelnen Tagen angegeben sind.\n• 2. A
+ dventswoche. Vierwochenpsalter: 2. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV2
 TRANSP:TRANSPARENT
@@ -34,7 +46,14 @@ DTSTART;VALUE=DATE:19001216
 DTEND;VALUE=DATE:19001223
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=11,12,13,14,15,16,17;BYMONTH=12
 SUMMARY:3. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n bis 16. Dezember: vom Advent I-IV.\nPräfation vom 17. bis 24. Dezember
+ : vom Advent V.\n• Te Deum\, Gloria und Credo werden nur dann gesprochen
+ /gesungen\, wenn sie an den einzelnen Tagen angegeben sind.\n• 3. Advent
+ swoche. Vierwochenpsalter: 3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV3
 TRANSP:TRANSPARENT
@@ -46,7 +65,13 @@ DTSTART;VALUE=DATE:19051224
 DTEND;VALUE=DATE:19051225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=24;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.1
 TRANSP:TRANSPARENT
@@ -58,7 +83,13 @@ DTSTART;VALUE=DATE:19001223
 DTEND;VALUE=DATE:19001225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=23;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.2
 TRANSP:TRANSPARENT
@@ -70,7 +101,13 @@ DTSTART;VALUE=DATE:19011222
 DTEND;VALUE=DATE:19011225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=22;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.3
 TRANSP:TRANSPARENT
@@ -82,7 +119,13 @@ DTSTART;VALUE=DATE:19021221
 DTEND;VALUE=DATE:19021225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=21;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.4
 TRANSP:TRANSPARENT
@@ -94,7 +137,13 @@ DTSTART;VALUE=DATE:19031220
 DTEND;VALUE=DATE:19031225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=20;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.5
 TRANSP:TRANSPARENT
@@ -106,7 +155,13 @@ DTSTART;VALUE=DATE:19091219
 DTEND;VALUE=DATE:19091225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=19;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.6
 TRANSP:TRANSPARENT
@@ -118,7 +173,13 @@ DTSTART;VALUE=DATE:19041218
 DTEND;VALUE=DATE:19041225
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=18;BYMONTH=12
 SUMMARY:4. Adventswoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektiona
+ r IV\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszei
+ t.\nLektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfatio
+ n vom 17. bis 24. Dezember: vom Advent V.\n• Te Deum\, Gloria und Credo 
+ werden nur dann gesprochen /gesungen\, wenn sie an den einzelnen Tagen a
+ ngegeben sind.\n• 4. Adventswoche. Vierwochenpsalter: 4. Woche.
 URL:https://schott.erzabtei-beuron.de/register/advent/index.html
 UID:ADV4.7
 TRANSP:TRANSPARENT
