@@ -206,10 +206,12 @@ DTEND;VALUE=DATE:19010102
 RRULE:FREQ=YEARLY
 SUMMARY:Weihnachtsoktav
 DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
- gebet und Messfeier:\n• Lesung der Messfeier an Wochentagen: Lektionar I
- V\, Geprägte Zeiten.\n• Stundenbuch Band I\, Advent und Weihnachtszeit\;
-  Lektionar zum Stundenbuch 1\; Liturgia Horarum\, Band I.\n• Präfation b
- is Erscheinung des Herrn: von Weihnachten I-III.\n• Weihnachtsoktav.
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Erscheinung des 
+ Herrn: von Weihnachten I-III.\n• Weihnachtsoktav. Vierwochenpsalter: 4./
+ 1. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:Weihnachtsoktav
 TRANSP:TRANSPARENT
@@ -221,7 +223,13 @@ DTSTART;VALUE=DATE:19010102
 DTEND;VALUE=DATE:19010106
 RRULE:FREQ=YEARLY
 SUMMARY:Weihnachtszeit
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Erscheinung des 
+ Herrn: von Weihnachten I-III.\n• Weihnachtszeit. Vierwochenpsalter: 1./2
+ . Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:Weihnachtszeit
 TRANSP:TRANSPARENT
@@ -233,7 +241,13 @@ DTSTART;VALUE=DATE:19730106
 DTEND;VALUE=DATE:19730107
 RRULE:FREQ=YEARLY;BYDAY=SA;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn1
 TRANSP:TRANSPARENT
@@ -245,7 +259,13 @@ DTSTART;VALUE=DATE:19780106
 DTEND;VALUE=DATE:19780108
 RRULE:FREQ=YEARLY;BYDAY=FR;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn2
 TRANSP:TRANSPARENT
@@ -257,7 +277,13 @@ DTSTART;VALUE=DATE:19720106
 DTEND;VALUE=DATE:19720109
 RRULE:FREQ=YEARLY;BYDAY=TH;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn3
 TRANSP:TRANSPARENT
@@ -269,7 +295,13 @@ DTSTART;VALUE=DATE:19710106
 DTEND;VALUE=DATE:19710110
 RRULE:FREQ=YEARLY;BYDAY=WE;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn4
 TRANSP:TRANSPARENT
@@ -281,7 +313,13 @@ DTSTART;VALUE=DATE:19700106
 DTEND;VALUE=DATE:19700111
 RRULE:FREQ=YEARLY;BYDAY=TU;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn5
 TRANSP:TRANSPARENT
@@ -293,7 +331,13 @@ DTSTART;VALUE=DATE:19750106
 DTEND;VALUE=DATE:19750112
 RRULE:FREQ=YEARLY;BYDAY=MO;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn6
 TRANSP:TRANSPARENT
@@ -305,7 +349,13 @@ DTSTART;VALUE=DATE:19740106
 DTEND;VALUE=DATE:19740113
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=6;BYMONTH=1
 SUMMARY:Weihnachtszeit nach Erscheinung des Herrn
-DESCRIPTION:Liturgische Farbe: Weiß
+DESCRIPTION:Liturgische Farbe: Weiß\n\nAngaben zur Leseordnung in Stunden
+ gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
+ .\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zeiten
+ .\n• Stundenbuch Band I\, Advent und Weihnachtszeit\; Lektionar zum Stun
+ denbuch 1\; Liturgia Horarum\, Band I.\n• Präfation bis Samstag: von Wei
+ hnachten I - III oder von Erscheinung des Herrn.\n• Weihnachtszeit. Vier
+ wochenpsalter: 2./3. Woche.
 URL:https://schott.erzabtei-beuron.de/register/weihnachtszeit/index.html
 UID:WeihnachtszeitNachErscheinungDesHerrn7
 TRANSP:TRANSPARENT
@@ -844,7 +894,10 @@ DESCRIPTION:Liturgische Farbe: Grün\n\nAngaben zur Leseordnung in Stunden
  .\n• Lesung der Messfeier an Wochentagen: Jahr I/II - Lektionar VI\, Jah
  reskreis 2.\n• Stundenbuch Band III\, Im Jahreskreis\; Lektionar zum Stu
  ndenbuch 7\; Liturgia Horarum\, Band IV.\n• 27. Woche im Jahreskreis. Vi
- erwochenpsalter: 3. Woche.
+ erwochenpsalter: 3. Woche.\n\nZur Quatemberwoche im Monat Oktober:\nDie 
+ erste Woche im Oktober ist Quatemberwoche. Jede Seelsorgsstelle soll an 
+ einem Tag dieser Woche einen Gottesdienst in diesem Anliegen feiern. Es 
+ empfiehlt sich, den Dank für die eingebrachte Ernte zu berücksichtigen.
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK27
 TRANSP:TRANSPARENT
