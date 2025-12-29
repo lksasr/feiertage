@@ -976,7 +976,14 @@ DTSTART;VALUE=DATE:19000228
 DTEND;VALUE=DATE:19000304
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2,3;BYMONTHDAY=1,2,3,4,5,6,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-1
 TRANSP:TRANSPARENT
@@ -988,7 +995,14 @@ DTSTART;VALUE=DATE:19010220
 DTEND;VALUE=DATE:19010224
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-12,-11,-10,-9,-8,-7,-6
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-2
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1001,7 +1015,14 @@ DTSTART;VALUE=DATE:19020212
 DTEND;VALUE=DATE:19020216
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-23,-22,-21,-20,-19,-18,-17
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-3
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1014,7 +1035,14 @@ DTSTART;VALUE=DATE:19030225
 DTEND;VALUE=DATE:19030301
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2,3;BYMONTHDAY=1,2,3,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-4
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1027,7 +1055,14 @@ DTSTART;VALUE=DATE:19040217
 DTEND;VALUE=DATE:19040221
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-15,-14,-13,-12,-11,-10,-9
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-5
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1040,7 +1075,14 @@ DTSTART;VALUE=DATE:19050308
 DTEND;VALUE=DATE:19050312
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=3;BYMONTHDAY=4,5,6,7,8,9,10
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-6
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1053,7 +1095,14 @@ DTSTART;VALUE=DATE:19060228
 DTEND;VALUE=DATE:19060304
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-7,-6,-5,-4,-3,-2,-1
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-7
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1066,7 +1115,14 @@ DTSTART;VALUE=DATE:19070213
 DTEND;VALUE=DATE:19070217
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-18,-17,-16,-15,-14,-13,-12
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-8
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1079,7 +1135,14 @@ DTSTART;VALUE=DATE:19080304
 DTEND;VALUE=DATE:19080308
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=3;BYMONTHDAY=2,3,4,5,6,7,8
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-9
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1092,7 +1155,14 @@ DTSTART;VALUE=DATE:19090224
 DTEND;VALUE=DATE:19090228
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-10,-9,-8,-7,-6,-5,-4
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-10
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1105,7 +1175,14 @@ DTSTART;VALUE=DATE:19100209
 DTEND;VALUE=DATE:19100213
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-21,-20,-19,-18,-17,-16,-15
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-11
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1118,7 +1195,14 @@ DTSTART;VALUE=DATE:19110301
 DTEND;VALUE=DATE:19110305
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2,3;BYMONTHDAY=1,2,3,4,5,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-12
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1131,7 +1215,14 @@ DTSTART;VALUE=DATE:19120221
 DTEND;VALUE=DATE:19120225
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-13,-12,-11,-10,-9,-8,-7
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-13
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1144,7 +1235,14 @@ DTSTART;VALUE=DATE:19130205
 DTEND;VALUE=DATE:19130209
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-24,-23,-22,-21,-20,-19,-18
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-14
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1157,7 +1255,14 @@ DTSTART;VALUE=DATE:19140225
 DTEND;VALUE=DATE:19140301
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2,3;BYMONTHDAY=1,2,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-15
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1170,7 +1275,14 @@ DTSTART;VALUE=DATE:19150217
 DTEND;VALUE=DATE:19150221
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-16,-15,-14,-13,-12,-11,-10
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-16
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1183,7 +1295,14 @@ DTSTART;VALUE=DATE:19160308
 DTEND;VALUE=DATE:19160312
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=3;BYMONTHDAY=3,4,5,6,7,8,9
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-17
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1196,7 +1315,14 @@ DTSTART;VALUE=DATE:19170221
 DTEND;VALUE=DATE:19170225
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-8,-7,-6,-5,-4,-3,-2
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-18
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1209,7 +1335,14 @@ DTSTART;VALUE=DATE:19180213
 DTEND;VALUE=DATE:19180217
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=WE;BYMONTH=2;BYMONTHDAY=-19,-18,-17,-16,-15,-14,-13
 SUMMARY:Tage nach Aschermittwoch
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• Vierwochenpsalter: 4. W
+ oche.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:TagenachAschermittwoch-19
 RELATED-TO;RELTYPE=SIBLING:TagenachAschermittwoch-1
@@ -1223,7 +1356,16 @@ DTSTART;VALUE=DATE:19000304
 DTEND;VALUE=DATE:19000311
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=4,5,6,7,8,9,10
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-1
 TRANSP:TRANSPARENT
@@ -1235,7 +1377,16 @@ DTSTART;VALUE=DATE:19010224
 DTEND;VALUE=DATE:19010303
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-8,-7,-6,-5,-4,-3,-2
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-2
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1248,7 +1399,16 @@ DTSTART;VALUE=DATE:19020216
 DTEND;VALUE=DATE:19020223
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-19,-18,-17,-16,-15,-14,-13
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-3
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1261,7 +1421,16 @@ DTSTART;VALUE=DATE:19030301
 DTEND;VALUE=DATE:19030308
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=1,2,3,4,5,6,7
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-4
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1274,7 +1443,16 @@ DTSTART;VALUE=DATE:19040221
 DTEND;VALUE=DATE:19040228
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-11,-10,-9,-8,-7,-6,-5
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-5
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1287,7 +1465,16 @@ DTSTART;VALUE=DATE:19050312
 DTEND;VALUE=DATE:19050319
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=8,9,10,11,12,13,14
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-6
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1300,7 +1487,16 @@ DTSTART;VALUE=DATE:19060304
 DTEND;VALUE=DATE:19060311
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2,3;BYMONTHDAY=1,2,3,4,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-7
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1313,7 +1509,16 @@ DTSTART;VALUE=DATE:19070217
 DTEND;VALUE=DATE:19070224
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-14,-13,-12,-11,-10,-9,-8
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-8
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1326,7 +1531,16 @@ DTSTART;VALUE=DATE:19080308
 DTEND;VALUE=DATE:19080315
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=6,7,8,9,10,11,12
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-9
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1339,7 +1553,16 @@ DTSTART;VALUE=DATE:19090228
 DTEND;VALUE=DATE:19090307
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2,3;BYMONTHDAY=1,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-10
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1352,7 +1575,16 @@ DTSTART;VALUE=DATE:19100213
 DTEND;VALUE=DATE:19100220
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-17,-16,-15,-14,-13,-12,-11
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-11
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1365,7 +1597,16 @@ DTSTART;VALUE=DATE:19110305
 DTEND;VALUE=DATE:19110312
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=3,4,5,6,7,8,9
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-12
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1378,7 +1619,16 @@ DTSTART;VALUE=DATE:19120225
 DTEND;VALUE=DATE:19120303
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-9,-8,-7,-6,-5,-4,-3
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-13
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1391,7 +1641,16 @@ DTSTART;VALUE=DATE:19130209
 DTEND;VALUE=DATE:19130216
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-20,-19,-18,-17,-16,-15,-14
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-14
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1404,7 +1663,16 @@ DTSTART;VALUE=DATE:19140301
 DTEND;VALUE=DATE:19140308
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2,3;BYMONTHDAY=1,2,3,4,5,6,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-15
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1417,7 +1685,16 @@ DTSTART;VALUE=DATE:19150221
 DTEND;VALUE=DATE:19150228
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-12,-11,-10,-9,-8,-7,-6
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-16
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1430,7 +1707,16 @@ DTSTART;VALUE=DATE:19160312
 DTEND;VALUE=DATE:19160319
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=3;BYMONTHDAY=7,8,9,10,11,12,13
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-17
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1443,7 +1729,16 @@ DTSTART;VALUE=DATE:19170225
 DTEND;VALUE=DATE:19170304
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2,3;BYMONTHDAY=1,2,3,-7,-6,-5,-4,-3,-2,-1;BYSETPOS=-2
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-18
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
@@ -1456,7 +1751,16 @@ DTSTART;VALUE=DATE:19180217
 DTEND;VALUE=DATE:19180224
 RRULE:FREQ=YEARLY;UNTIL=20991231;INTERVAL=19;BYDAY=SU;BYMONTH=2;BYMONTHDAY=-15,-14,-13,-12,-11,-10,-9
 SUMMARY:1. Fastenwoche
-DESCRIPTION:Liturgische Farbe: Violett
+DESCRIPTION:Liturgische Farbe: Violett\n\nAngaben zur Leseordnung in Stun
+ dengebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/
+ B/C.\n• Lesung der Messfeier an Wochentagen: Lektionar IV\, Geprägte Zei
+ ten.\n• Stundenbuch Band II\, Fastenzeit und Osterzeit\; Lektionar zum S
+ tudenbuch 2\; Liturgia Horarum\, Band II.\n• Präfation bis zum 5. Fasten
+ sonntag: für die Fastenzeit I-IV; diese Präfationen können auch mit dem 
+ Votivhochgebet „Versöhnung“ verbunden werden.\n• 1. Fastenwoche. Vierwoc
+ henpsalter: 1. Woche.\n\nZur Quatemberwoche:\nDie erste Woche in der Fas
+ tenzeit ist Quatemberwoche. Jede Seelsorgsstelle soll an einem Tag diese
+ r Woche einen besonderen Gottesdienst in diesem Anliegen feiern.
 URL:https://schott.erzabtei-beuron.de/register/fastenzeit/index.html
 UID:1Fastenwoche-19
 RELATED-TO;RELTYPE=SIBLING:1Fastenwoche-1
