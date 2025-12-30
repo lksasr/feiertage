@@ -599,13 +599,13 @@ DTSTART;VALUE=DATE:19700607
 DTEND;VALUE=DATE:19700614
 RRULE:FREQ=YEARLY;BYDAY=SU;BYMONTHDAY=5,6,7,8,9,10,11;BYMONTH=6
 EXDATE;VALUE=DATE:20110605,20380606,20950605
-SUMMARY:10. Woche im Jahreskreis\n\nAngaben zur Leseordnung in Stunden
+SUMMARY:10. Woche im Jahreskreis
+DESCRIPTION:Liturgische Farbe: Grün\n\nAngaben zur Leseordnung in Stunden
  gebet und Messfeier:\n• Lesejahr in der Messfeier an den Sonntagen A/B/C
  .\n• Lesung der Messfeier an Wochentagen: Jahr I/II - Lektionar V\, Jahr
  eskreis 1.\n• Stundenbuch Band III\, Im Jahreskreis\; Lektionar zum Stun
  denbuch 5\; Liturgia Horarum\, Band III.\n• 10. Woche im Jahreskreis. Vi
  erwochenpsalter: 2. Woche.
-DESCRIPTION:Liturgische Farbe: Grün
 URL:https://schott.erzabtei-beuron.de/register/jahreskreis/index.html
 UID:JK10
 TRANSP:TRANSPARENT
